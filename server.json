@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.vascue/public-knowledge-search",
+  "title": "Vascue Public Knowledge Search",
+  "description": "Search Vascue's public healthcare-ops, insurance-claims and booking docs. Public content only.",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.vascue.io",
+  "icons": [
+    {
+      "src": "https://www.vascue.io/icon.png",
+      "mimeType": "image/png",
+      "sizes": ["32x32"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.vascue.io/mcp/search"
+    }
+  ],
+  "_meta": {
+    "io.vascue/dataClassification": "public",
+    "io.vascue/containsPatientData": false,
+    "io.vascue/usageNotice": "Use for public product research only. Never send patient information, claim documents, clinic credentials, or booking requests. Agent-based clinic booking is a research pilot, not a public API.",
+    "io.vascue/serverCard": "https://www.vascue.io/.well-known/mcp/server-card.json"
+  }
+}
