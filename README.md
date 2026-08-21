@@ -1,6 +1,10 @@
 # Vascue Public Knowledge Search (MCP server)
 
 [![io.vascue/public-knowledge-search on the MCP Registry](https://img.shields.io/badge/MCP%20Registry-io.vascue%2Fpublic--knowledge--search-blue)](https://registry.modelcontextprotocol.io/v0/servers?search=io.vascue)
+[![CI](https://github.com/vascue-io/public-knowledge-search/actions/workflows/ci.yml/badge.svg)](https://github.com/vascue-io/public-knowledge-search/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+<a href="https://glama.ai/mcp/servers/vascue-io/public-knowledge-search"><img width="380" height="200" src="https://glama.ai/mcp/servers/vascue-io/public-knowledge-search/badge" alt="Vascue Public Knowledge Search MCP server" /></a>
 
 A remote [Model Context Protocol](https://modelcontextprotocol.io) server that searches [Vascue](https://www.vascue.io)'s public documentation: healthcare operations, the AI front desk for clinics, provider-side insurance claims automation, Cliniko integration, security, case studies and pricing.
 
@@ -43,7 +47,39 @@ docker run -i --rm vascue-public-knowledge-search
 
 ## Tools
 
-The server exposes a search tool over Vascue's public pages and returns page excerpts with their canonical `https://www.vascue.io/...` URLs, so answers can cite the source. Call `tools/list` after `initialize` for the current schema.
+One tool, no authentication, read-only.
+
+### `search`
+
+Hybrid (keyword + vector) search over Vascue's public pages. Returns matching excerpts with their canonical `https://www.vascue.io/...` URLs so answers can cite the source.
+
+| Input | Type | Notes |
+| --- | --- | --- |
+| `query` | `string` (required) | Natural-language question or keywords, e.g. "how does Vascue handle insurance claim pre-authorisation". |
+| `ai_search_options.retrieval.retrieval_type` | `"hybrid" \| "vector" \| "keyword"` | Default hybrid. |
+| `ai_search_options.retrieval.max_num_results` | `integer` 1–50 | Default 8. |
+| `ai_search_options.retrieval.match_threshold` | `number` 0–1 | Default 0.35. |
+| `ai_search_options.retrieval.context_expansion` | `integer` 0–3 | Neighbouring chunks to include. |
+
+Query rewriting and reranking are disabled server-side; the server returns source chunks only and never a generated answer, so nothing is presented as a Vascue statement without a citation. Rate limit: 60 requests per minute per client.
+
+Example call:
+
+```json
+{ "name": "search", "arguments": { "query": "Cliniko integration for AI front desk" } }
+```
+
+The endpoint is backed by a Cloudflare AI Search instance over the approved public Markdown export of vascue.io (the service descriptor at https://www.vascue.io/.well-known/ai-search.json states what is and is not indexed).
+
+## Development
+
+```bash
+docker build -t vascue-public-knowledge-search .
+node scripts/smoke.mjs docker run -i --rm vascue-public-knowledge-search   # initialize -> tools/list
+node scripts/smoke.mjs npx -y mcp-remote https://www.vascue.io/mcp/search --transport http-only
+```
+
+CI runs the same build and smoke test on every push and weekly, so the badge above doubles as an endpoint health indicator.
 
 ## Other machine-readable surfaces
 

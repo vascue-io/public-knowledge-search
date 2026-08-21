@@ -1,0 +1,36 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    # Weekly health check of the hosted endpoint through the stdio bridge.
+    - cron: "17 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  smoke:
+    name: Build image and smoke-test the bridge
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate manifests
+        run: |
+          node -e "JSON.parse(require('fs').readFileSync('server.json','utf8'))"
+          node -e "const g=JSON.parse(require('fs').readFileSync('glama.json','utf8')); if(!Array.isArray(g.maintainers)||!g.maintainers.length) process.exit(1)"
+
+      - name: Build image
+        run: docker build -t vascue-public-knowledge-search .
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: initialize + tools/list over stdio
+        run: node scripts/smoke.mjs docker run -i --rm vascue-public-knowledge-search
