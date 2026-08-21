@@ -81,6 +81,8 @@ node scripts/smoke.mjs npx -y mcp-remote https://www.vascue.io/mcp/search --tran
 
 CI runs the same build and smoke test on every push and weekly, so the badge above doubles as an endpoint health indicator.
 
+Directory build specs (Glama and similar) that ask for an explicit command: command `mcp-remote`, arguments `https://www.vascue.io/mcp/search`, `--transport`, `http-only`; no environment variables.
+
 ## Other machine-readable surfaces
 
 - `https://www.vascue.io/llms.txt`

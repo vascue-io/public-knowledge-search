@@ -13,7 +13,6 @@ RUN npm install -g "mcp-remote@${MCP_REMOTE_VERSION}" && npm cache clean --force
 # Writable config dir for mcp-remote (it persists OAuth state there; unused for
 # this unauthenticated server, but the directory must be writable).
 ENV MCP_REMOTE_CONFIG_DIR=/tmp/mcp-remote
-ENV VASCUE_MCP_URL=https://www.vascue.io/mcp/search
 
 USER node
 WORKDIR /home/node
@@ -24,4 +23,5 @@ LABEL org.opencontainers.image.title="Vascue Public Knowledge Search (MCP stdio 
       org.opencontainers.image.licenses="MIT"
 
 # --transport http-only: the endpoint is streamable HTTP; skip the SSE fallback.
-CMD ["sh", "-c", "exec mcp-remote \"$VASCUE_MCP_URL\" --transport http-only"]
+# Directory build specs (e.g. Glama) should use the same command and arguments.
+CMD ["mcp-remote", "https://www.vascue.io/mcp/search", "--transport", "http-only"]
