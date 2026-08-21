@@ -4,6 +4,11 @@ All notable changes to this repository are recorded here. The hosted endpoint
 (`https://www.vascue.io/mcp/search`) is versioned separately by the website
 deployment; this file tracks the manifest, bridge image and documentation.
 
+## Unreleased
+
+- `bridge.py` + `requirements.txt`: Python stdio bridge (FastMCP proxy) for
+  directories that build on a Python runtime; covered by CI.
+
 ## 1.0.1 - 2026-08-21
 
 - `server.json`: add `repository` so registries can link the source.

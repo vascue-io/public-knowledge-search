@@ -32,5 +32,14 @@ jobs:
         with:
           node-version: 22
 
-      - name: initialize + tools/list over stdio
+      - name: initialize + tools/list over stdio (Node bridge, Docker image)
         run: node scripts/smoke.mjs docker run -i --rm vascue-public-knowledge-search
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: initialize + tools/list over stdio (Python bridge)
+        run: |
+          pip install -q -r requirements.txt
+          node scripts/smoke.mjs python bridge.py

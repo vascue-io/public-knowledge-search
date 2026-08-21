@@ -81,7 +81,18 @@ node scripts/smoke.mjs npx -y mcp-remote https://www.vascue.io/mcp/search --tran
 
 CI runs the same build and smoke test on every push and weekly, so the badge above doubles as an endpoint health indicator.
 
-Directory build specs (Glama and similar) that ask for an explicit command: command `mcp-remote`, arguments `https://www.vascue.io/mcp/search`, `--transport`, `http-only`; no environment variables.
+### Directory build specs
+
+Two equivalent stdio bridges are kept in this repo so a directory can build the server on whichever runtime it offers. Neither needs environment variables.
+
+| Runtime | Build steps | CMD |
+| --- | --- | --- |
+| Node 22 (`Dockerfile`) | `["npm install -g mcp-remote@0.1.38"]` | `["mcp-remote", "https://www.vascue.io/mcp/search", "--transport", "http-only"]` |
+| Python 3.12+ (`bridge.py`) | `["pip install -r requirements.txt"]` | `["python", "bridge.py"]` |
+
+```bash
+pip install -r requirements.txt && node scripts/smoke.mjs python bridge.py
+```
 
 ## Other machine-readable surfaces
 
