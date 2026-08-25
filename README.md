@@ -87,8 +87,10 @@ Two equivalent stdio bridges are kept in this repo so a directory can build the 
 
 | Runtime | Build steps | CMD |
 | --- | --- | --- |
-| Node 22 (`Dockerfile`) | `["npm install -g mcp-remote@0.1.38"]` | `["mcp-remote", "https://www.vascue.io/mcp/search", "--transport", "http-only"]` |
-| Python 3.12+ (`bridge.py`) | `["pip install -r requirements.txt"]` | `["python", "bridge.py"]` |
+| Node (`Dockerfile`) | `["npm install -g mcp-remote@0.1.38"]` | `["mcp-remote", "https://www.vascue.io/mcp/search", "--transport", "http-only"]` |
+| Python 3.12+ (`bridge.py`) | `["uv pip install --system -r requirements.txt"]` (or plain `pip install -r requirements.txt` where pip exists) | `["python", "bridge.py"]` |
+
+Note for Glama specifically: its build image provides Python through `uv`, which ships no `pip` shim — use the `uv pip install --system` form there. Node and npm are also preinstalled in Glama's image, so the Node row works as-is.
 
 ```bash
 pip install -r requirements.txt && node scripts/smoke.mjs python bridge.py
