@@ -3,7 +3,7 @@
   "name": "io.vascue/public-knowledge-search",
   "title": "Vascue Public Knowledge Search",
   "description": "Search Vascue's public healthcare-ops, insurance-claims and booking docs. Public content only.",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "repository": {
     "url": "https://github.com/vascue-io/public-knowledge-search",
     "source": "github"

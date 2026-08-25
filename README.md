@@ -6,7 +6,12 @@
 
 <a href="https://glama.ai/mcp/servers/vascue-io/public-knowledge-search"><img width="380" height="200" src="https://glama.ai/mcp/servers/vascue-io/public-knowledge-search/badge" alt="Vascue Public Knowledge Search MCP server" /></a>
 
-A remote [Model Context Protocol](https://modelcontextprotocol.io) server that searches [Vascue](https://www.vascue.io)'s public documentation: healthcare operations, the AI front desk for clinics, provider-side insurance claims automation, Cliniko integration, security, case studies and pricing.
+A [Model Context Protocol](https://modelcontextprotocol.io) server that searches [Vascue](https://www.vascue.io)'s public documentation: healthcare operations, the AI front desk for clinics, provider-side insurance claims automation, Cliniko integration, security, case studies and pricing.
+
+It comes in two equivalent forms:
+
+- **Hosted (always current):** `https://www.vascue.io/mcp/search` - streamable HTTP, no authentication.
+- **Self-contained (this repo):** `python server.py` - local BM25 search over a bundled snapshot of the public pages (`content/`, refreshed per release with `scripts/fetch_content.py`). No network calls at runtime, so it also works offline and is what directory-built releases run.
 
 - **Endpoint:** `https://www.vascue.io/mcp/search` (streamable HTTP, no authentication)
 - **Server card:** https://www.vascue.io/.well-known/mcp/server-card.json
@@ -38,7 +43,14 @@ claude mcp add --transport http vascue-search https://www.vascue.io/mcp/search
 }
 ```
 
-**Docker** (the same stdio bridge, used by directory health checks)
+**Self-contained local server** (stdio; bundled snapshot, no network)
+
+```bash
+pip install -r requirements.txt
+python server.py
+```
+
+**Docker** (builds the self-contained server)
 
 ```bash
 docker build -t vascue-public-knowledge-search .
@@ -93,7 +105,10 @@ Two equivalent stdio bridges are kept in this repo so a directory can build the 
 Note for Glama specifically: its build image provides Python through `uv`, which ships no `pip` shim — use the `uv pip install --system` form there. Node and npm are also preinstalled in Glama's image, so the Node row works as-is.
 
 ```bash
-pip install -r requirements.txt && node scripts/smoke.mjs python bridge.py
+pip install -r requirements.txt
+SMOKE_CALL_QUERY="Cliniko integration" node scripts/smoke.mjs python server.py   # local server
+node scripts/smoke.mjs python bridge.py                                          # stdio bridge to the hosted endpoint
+python scripts/fetch_content.py                                                  # refresh the content/ snapshot
 ```
 
 ## Other machine-readable surfaces

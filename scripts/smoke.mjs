@@ -40,6 +40,17 @@ try {
   const tools = await request(2, "tools/list");
   const names = (tools.tools ?? []).map((t) => t.name);
   if (!names.length) throw new Error("tools/list returned no tools");
+  const callQuery = process.env.SMOKE_CALL_QUERY;
+  if (callQuery) {
+    const call = await request(3, "tools/call", { name: "search", arguments: { query: callQuery } });
+    const payload = JSON.parse(call.content?.[0]?.text ?? "{}");
+    const chunks = payload.chunks ?? payload.result?.chunks ?? [];
+    if (!chunks.length) throw new Error(`search("${callQuery}") returned no chunks`);
+    const first = chunks[0];
+    const url = first.url ?? first.item?.metadata?.url ?? "";
+    if (!url.startsWith("https://www.vascue.io")) throw new Error(`chunk url missing/foreign: ${url}`);
+    console.log(`smoke: search("${callQuery}") -> ${chunks.length} chunks, top ${url}`);
+  }
   console.log(JSON.stringify({ serverInfo: init.serverInfo, protocolVersion: init.protocolVersion, tools: tools.tools }, null, 2));
   console.log(`smoke: ok (${names.join(", ")})`);
   clearTimeout(timer);
