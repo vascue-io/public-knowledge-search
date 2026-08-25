@@ -95,14 +95,13 @@ CI runs the same build and smoke test on every push and weekly, so the badge abo
 
 ### Directory build specs
 
-Two equivalent stdio bridges are kept in this repo so a directory can build the server on whichever runtime it offers. Neither needs environment variables.
+Directories that build the server from source (e.g. Glama) run the self-contained form. Generated build images vary (uv-managed Python without `pip`, or a PEP 668 externally-managed system Python), so use an explicit venv:
 
-| Runtime | Build steps | CMD |
-| --- | --- | --- |
-| Node (`Dockerfile`) | `["npm install -g mcp-remote@0.1.38"]` | `["mcp-remote", "https://www.vascue.io/mcp/search", "--transport", "http-only"]` |
-| Python 3.12+ (`bridge.py`) | `["uv pip install --system -r requirements.txt"]` (or plain `pip install -r requirements.txt` where pip exists) | `["python", "bridge.py"]` |
+- Build steps: `["uv venv /opt/venv && uv pip install --python /opt/venv/bin/python -r requirements.txt"]`
+- CMD: `["/opt/venv/bin/python", "server.py"]`
+- No environment variables.
 
-Note for Glama specifically: its build image provides Python through `uv`, which ships no `pip` shim — use the `uv pip install --system` form there. Node and npm are also preinstalled in Glama's image, so the Node row works as-is.
+Where a normal `pip` exists, plain `pip install -r requirements.txt` + `["python", "server.py"]` works too.
 
 ```bash
 pip install -r requirements.txt
