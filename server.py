@@ -131,8 +131,8 @@ mcp = FastMCP(
     },
 )
 def search(
-    query: Annotated[str, Field(description='What to look for, as a natural-language question or keywords, e.g. "how does claims pre-authorisation work" or "Cliniko integration". 3-15 words works best; one topic per call.')],
-    max_num_results: Annotated[int, Field(ge=1, le=50, description="Maximum excerpts to return (default 8).")] = 8,
+    query: Annotated[str, Field(min_length=1, description='What to look for, as a natural-language question or keywords. 3-15 words works best; one topic per call (split multi-part questions into separate calls). Examples: "how does claims pre-authorisation work", "Cliniko integration", "pricing for physiotherapy clinics". Matching is keyword-based (BM25), so prefer concrete product terms over abstract phrasing.')],
+    max_num_results: Annotated[int, Field(ge=1, le=50, description="Maximum excerpts to return, 1-50 (default 8). Use 3-5 for a quick factual answer, 8 (default) for typical questions, 15+ only for a broad research sweep across many pages; larger values return progressively less relevant chunks.")] = 8,
 ) -> dict:
     """Keyword (BM25) search over a bundled snapshot of vascue.io's public pages: healthcare-operations guides, the AI front desk for clinics, provider-side insurance-claims automation, Cliniko and Nookal integration, security and compliance pages, case studies, pricing and blog posts.
 
