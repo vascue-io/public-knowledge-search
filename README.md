@@ -3,8 +3,9 @@
 [![io.vascue/public-knowledge-search on the MCP Registry](https://img.shields.io/badge/MCP%20Registry-io.vascue%2Fpublic--knowledge--search-blue)](https://registry.modelcontextprotocol.io/v0/servers?search=io.vascue)
 [![CI](https://github.com/vascue-io/public-knowledge-search/actions/workflows/ci.yml/badge.svg)](https://github.com/vascue-io/public-knowledge-search/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![public-knowledge-search MCP server](https://glama.ai/mcp/servers/vascue-io/public-knowledge-search/badges/score.svg)](https://glama.ai/mcp/servers/vascue-io/public-knowledge-search)
 
-<a href="https://glama.ai/mcp/servers/vascue-io/public-knowledge-search"><img width="380" height="200" src="https://glama.ai/mcp/servers/vascue-io/public-knowledge-search/badge" alt="Vascue Public Knowledge Search MCP server" /></a>
+[![public-knowledge-search MCP server](https://glama.ai/mcp/servers/vascue-io/public-knowledge-search/badges/card.svg)](https://glama.ai/mcp/servers/vascue-io/public-knowledge-search)
 
 A [Model Context Protocol](https://modelcontextprotocol.io) server that searches [Vascue](https://www.vascue.io)'s public documentation: healthcare operations, the AI front desk for clinics, provider-side insurance claims automation, Cliniko integration, security, case studies and pricing.
 
