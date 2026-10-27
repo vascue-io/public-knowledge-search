@@ -1,6 +1,6 @@
 ---
 title: "Pricing | Vascue"
-description: "Vascue pricing: AI Front Desk from $349 per clinic location per month. Claims Automation $115 per location per month plus $1 per case."
+description: "Vascue pricing: Vascue Front Desk from $349 per clinic location per month. Claims Automation $115 per location per month plus $1 per case."
 canonical: "https://www.vascue.io/pricing"
 ---
 
@@ -8,17 +8,17 @@ Pricing
 
 # Pay for what you run.
 
-The AI Front Desk starts at $349 per clinic location per month (Pro $699, Enterprise custom). Claims Automation is $115 per location per month plus $1 per case, through the design-partner programme. No bundles: pick the products you run.
+Vascue Front Desk starts at $349 per clinic location per month (Pro $699, Enterprise custom). Claims Automation is $115 per location per month plus $1 per case, through the design-partner programme. No bundles: pick the products you run.
 
 [Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue%2C%20I%20would%20like%20to%20book%20a%20demo)[Talk to sales](mailto:hello@vascue.io?subject=Vascue%20pricing)
 
-Every plan is **per clinic location** , one location = one PMS account / calendar (Cliniko, Nookal, or Jane).
+Every plan is **per clinic location** , one location = one PMS account / calendar (Cliniko or Nookal; Jane, Mindbody, PracticeHub, HexaHealth, Halaxy, Clinicea, ClinicOffice, Semble, Plato Medical and JERA in progress).
 
 Live · Product 01
 
-## AI Front Desk
+## Vascue Front Desk
 
-A 24/7 WhatsApp front desk that answers, triages, books, and quotes, synced straight into Cliniko, Nookal, or Jane.
+A 24/7 WhatsApp front desk that answers, triages, books, and quotes, synced straight into Cliniko and Nookal (Jane, Mindbody, PracticeHub, HexaHealth, Halaxy, Clinicea, ClinicOffice, Semble, Plato Medical and JERA in progress).
 
 per location / month
 

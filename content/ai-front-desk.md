@@ -56,6 +56,10 @@ Read referral letters and uploaded documents, then provide quotations using your
 
 Coordinate bookings, rescheduling and cancellations, with updates to your connected systems, appointment reminders and follow-up.
 
+### Bring patients back after the visit
+
+Vascue already holds the WhatsApp conversation and the booking in your practice-management system. It uses both to suggest a personalised follow-up or rebooking message for each patient. Your team approves every suggestion before it is sent from your clinic's own WhatsApp number. Coming next.
+
 A patient journey
 
 ## From first message to booked visit, without a phone call.
@@ -142,6 +146,10 @@ We work with your team to understand your requirements and configure Front Desk 
     Review the workflow with your team before launch, with staff review and takeover in place.
     
 
+### Set up around how your clinic books
+
+Every clinic books differently. Some ask which service the patient wants first, others which practitioner. Vascue encodes your clinic's booking, quoting and escalation rules in its workflow engine, set up through our MCP server, so onboarding takes about a day.
+
 Common questions
 
 ## Straight answers about Vascue Front Desk.
@@ -154,7 +162,7 @@ A WhatsApp-based front desk for clinics and hospital departments. It answers enq
 
 Will it work with our existing systems?
 
-Patients message on WhatsApp. Bookings sync two-way with Cliniko, Nookal and Jane, or use Vascue's built-in calendar. Mindbody, PracticeHub, HexaHealth, Halaxy, Clinicea, ClinicOffice, Semble, Plato Medical and JERA are coming soon. For other systems, ask us to confirm your integration requirements during the walkthrough.
+Patients message on WhatsApp. Bookings sync two-way with Cliniko and Nookal, with Jane, Mindbody, PracticeHub, HexaHealth, Halaxy, Clinicea, ClinicOffice, Semble, Plato Medical and JERA in progress, or use Vascue's built-in calendar. For other systems, ask us to confirm your integration requirements during the walkthrough.
 
 Can staff take over a conversation?
 
