@@ -13,7 +13,7 @@ See where the day gets stuck.
 
 Vascue handles healthcare enquiries at volume and prepares document-heavy claims for staff review. The patient-journey analytics layer surfaces the waits behind them, validated per workflow.
 
-[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)
+[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue%2C%20I%20would%20like%20to%20book%20a%20demo)
 
 The visibility gap
 
@@ -136,4 +136,4 @@ Further reading
 
 We'll map a demo to one of your departments and its real workflow.
 
-[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)
+[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue%2C%20I%20would%20like%20to%20book%20a%20demo)

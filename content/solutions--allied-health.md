@@ -13,7 +13,7 @@ every discipline.
 
 Run physio, chiropractic, podiatry, dietetics, and more from a single AI front desk that knows each one's intake, pricing, and rebates.
 
-[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)
+[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue%2C%20I%20would%20like%20to%20book%20a%20demo)
 
 The problem
 
@@ -104,4 +104,4 @@ Further reading
 
 We'll set up a demo across the disciplines your clinic actually offers.
 
-[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)
+[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue%2C%20I%20would%20like%20to%20book%20a%20demo)

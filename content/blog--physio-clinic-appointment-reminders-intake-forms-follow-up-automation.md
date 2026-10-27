@@ -1,6 +1,6 @@
 ---
 title: "Appointment Reminders, Intake Forms and Follow-Up Messages for Physio Clinics: What to Look For"
-description: "What Cliniko and Nookal already automate for reminders, intake and follow-up, where the native tools stop, and a checklist for automation built for allied health."
+description: "What Cliniko and Nookal already automate for reminders, intake and follow-up, where the native tools stop, and a checklist for allied health."
 image: "https://www.vascue.io/images/blog/physio-clinic-appointment-reminders-intake-forms-follow-up-automation.png"
 canonical: "https://www.vascue.io/blog/physio-clinic-appointment-reminders-intake-forms-follow-up-automation"
 ---
@@ -39,7 +39,7 @@ The practical difference from Cliniko: Nookal automates the recall message; Clin
 
 Strong, and older than most of the software. A meta-analysis of 21 studies published in [BMJ Open in 2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC5093388/) found that patients receiving notifications were 25% less likely to miss appointments (15% versus 21% no-show rate), and that multiple notifications were significantly more effective than a single one. The second finding is the one clinics under-use: a reminder at seven days and another at one day beats either alone.
 
-The other number worth knowing is when patients try to book. Zocdoc has reported that [roughly half of appointments on its platform were booked after hours](https://thescript.zocdoc.com/blog/article/why-not-offering-after-hours-booking-is-driving-away-patients/), between 5 pm and 9 am. A reminder system can only remind patients who got as far as a booking.
+The other number worth knowing is when patients try to book. Zocdoc has reported that [roughly half of appointments on its platform were booked after hours](https://www.zocdoc.com/resources/blog/article/why-not-offering-after-hours-booking-is-driving-away-patients/), between 5 pm and 9 am. A reminder system can only remind patients who got as far as a booking.
 
 ## Where the Native Tools Stop
 
@@ -148,17 +148,17 @@ Related reading
     
     [Learn more](/blog/what-is-healthcare-operations-automation)
     
--   ![When Should an AI Front Desk Hand a Patient to Staff? Approval, Takeover and Audit Trails](/images/blog/ai-front-desk-human-handoff-approval-audit-trail.png)
+-   ![Patient Journey Automation for Allied Health Clinics, End to End](/images/blog/end-to-end-patient-journey-automation-allied-health.png)
     
-    Practice Operations
+    Healthcare AI
     
-    ### When Should an AI Front Desk Hand a Patient to Staff? Approval, Takeover and Audit Trails
+    ### Patient Journey Automation for Allied Health Clinics, End to End
     
-    When an AI front desk should hand a patient to staff, the three control modes regulators describe, what a usable takeover looks like, what an audit trail must record, and how to roll autonomy out safely.
+    Most clinic AI automates one slice of the journey. Vascue connects patient communication and booking, while a separate product, Vascue Claims, handles provider-side claims.
     
-    8 min read
+    6 min read
     
-    [Learn more](/blog/ai-front-desk-human-handoff-approval-audit-trail)
+    [Learn more](/blog/end-to-end-patient-journey-automation-allied-health)
     
 
 Part of the [AI Front Desk](/ai-front-desk) cluster[All articles →](/blog)

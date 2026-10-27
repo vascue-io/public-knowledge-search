@@ -1,6 +1,6 @@
 ---
 title: "Vascue for Nookal | AI Front Desk with Two-Way Booking Sync"
-description: "An AI front desk for Nookal clinics: patients enquire and book over WhatsApp, intake is collected in the chat, and appointments land in Nookal with no double entry."
+description: "An AI front desk for Nookal clinics: patients enquire and book over WhatsApp, intake is collected in the chat, appointments land in Nookal."
 canonical: "https://www.vascue.io/nookal"
 ---
 
@@ -13,7 +13,7 @@ built for Nookal.
 
 Patients enquire and book over WhatsApp, in their own language; intake is collected in the chat; appointments land straight in Nookal, with no double entry. Staff can take over any conversation at any time.
 
-[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)
+[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue%2C%20I%20would%20like%20to%20book%20a%20demo)
 
 -   Two-way sync
 -   WhatsApp
@@ -168,4 +168,4 @@ Further reading
 
 A 20-minute demo, mapped to how your clinic books, bills, and follows up.
 
-[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)
+[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue%2C%20I%20would%20like%20to%20book%20a%20demo)

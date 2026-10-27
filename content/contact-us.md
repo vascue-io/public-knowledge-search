@@ -10,6 +10,10 @@ canonical: "https://www.vascue.io/contact-us"
 
 Chat with a Vascue specialist to see how we lighten the load at the front desk and give time back to your team and patients.
 
+-   A walkthrough of Vascue Front Desk, Insights or Claims on your own workflow
+-   Connecting Cliniko, Nookal or the practice-management system you already use
+-   How patient data is handled and where your staff stay in control, see [Security & privacy](/security)
+
 Full Name \*
 
 Company Name \*

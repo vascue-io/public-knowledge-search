@@ -11,7 +11,7 @@ under your control
 
 Most AI tools route patient data through third-party language models. Vascue handles raw patient data on self-hosted infrastructure and masks identifiers before any content is passed onward, all under ISO 27001, so confidentiality is the default, not a setting.
 
-[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)[View ISO 27001 certificate](/docs/ISO27001_Certificate_Vascue.pdf)
+[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue%2C%20I%20would%20like%20to%20book%20a%20demo)[View ISO 27001 certificate](/docs/ISO27001_Certificate_Vascue.pdf)
 
 -   Self-hosted
 -   /
@@ -91,11 +91,11 @@ Do you sell data or train shared models on it?
 
 No. Vascue never sells customer or patient data and does not train shared models on it.
 
-How this plays out in each product: [the AI Front Desk](/ai-front-desk) keeps staff in every conversation, and [Vascue Claims](/claims) keeps the submit with your team. The [Hong Kong radiology case study](/customers/radiology-hong-kong) shows the architecture running at hospital volume.
+How this plays out in each product: [Vascue Front Desk](/ai-front-desk) keeps staff in every conversation, and [Vascue Claims](/claims) keeps the submit with your team. The [Hong Kong radiology case study](/customers/radiology-hong-kong) shows the architecture running at hospital volume.
 
 ## Compliance shouldn't be the thing that slows you down.
 
-[Talk with us](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)[Visit the Trust Center](https://trustcenter.vascue.io/)
+[Talk with us](https://wa.me/85293027422?text=Hi%20Vascue%2C%20I%20would%20like%20to%20book%20a%20demo)[Visit the Trust Center](https://trustcenter.vascue.io/)
 
 Further reading
 

@@ -13,7 +13,7 @@ built for Cliniko.
 
 Patients book over WhatsApp; appointments land straight in Cliniko, with no double entry. Cliniko is also the first connected source for Vascue's claims automation, which turns each visit into a ready-to-file claim.
 
-[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)
+[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue%2C%20I%20would%20like%20to%20book%20a%20demo)
 
 -   Two-way sync
 -   WhatsApp
@@ -166,4 +166,4 @@ Further reading
 
 A 20-minute demo, mapped to how your clinic books, bills, and follows up.
 
-[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)
+[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue%2C%20I%20would%20like%20to%20book%20a%20demo)

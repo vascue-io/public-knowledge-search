@@ -183,3 +183,46 @@ Yes. Workflow mapping, integration checks, failure cases, and demonstrations sho
 Start with process maps and synthetic cases. We can define the clinic, payer, source records, review boundary, success criteria, and production prerequisites before patient information moves.
 
 [Book a claims walkthrough](/contact-us)
+
+Further reading
+
+## Background reading on claims
+
+-   ![Why Health Insurance Claims Get Rejected: 12 Denial Reasons and How Clinics Prevent Them](/images/blog/why-health-insurance-claims-get-rejected.png)
+    
+    Revenue Cycle
+    
+    ### Why Health Insurance Claims Get Rejected: 12 Denial Reasons and How Clinics Prevent Them
+    
+    The 12 most common reasons insurers reject clinic claims, what each denial means for the provider, and the front-desk or billing fix that gets the claim paid.
+    
+    7 min read
+    
+    [Learn more](/blog/why-health-insurance-claims-get-rejected)
+    
+-   ![How to Claim Reimbursement From International Health Insurance: A Step-by-Step Guide](/images/blog/how-to-claim-international-health-insurance-reimbursement.png)
+    
+    Revenue Cycle
+    
+    ### How to Claim Reimbursement From International Health Insurance: A Step-by-Step Guide
+    
+    A practical guide to getting reimbursed by international health insurers (Cigna Global, Allianz Care, Bupa Global, AXA and similar plans): documents you need, how to submit, and why claims get delayed.
+    
+    6 min read
+    
+    [Learn more](/blog/how-to-claim-international-health-insurance-reimbursement)
+    
+-   ![What Is Revenue Cycle Management Outside the US? A Guide for Private Clinics](/images/blog/revenue-cycle-management-outside-us-guide.png)
+    
+    Revenue Cycle
+    
+    ### What Is Revenue Cycle Management Outside the US? A Guide for Private Clinics
+    
+    Revenue cycle management explained for clinics outside the United States: how claims really move between clinics and insurers, why US RCM software doesn't apply, and what automation looks like without clearing houses.
+    
+    6 min read
+    
+    [Learn more](/blog/revenue-cycle-management-outside-us-guide)
+    
+
+[All articles →](/blog)

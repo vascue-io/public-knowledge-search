@@ -12,7 +12,7 @@ to the settled claim.
 
 Connect patient communication, operational visibility and claims across the systems your team already uses. Front Desk handles enquiries, bookings and follow-up. Insights helps you understand performance. Claims supports preparation, tracking and reconciliation. Privacy is built into the architecture.
 
-[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)
+[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue%2C%20I%20would%20like%20to%20book%20a%20demo)
 
 [Vascue Front Desk](/ai-front-desk)[Vascue Insights](/insights)[Vascue Claims](/claims)
 
@@ -182,7 +182,7 @@ Staff can take over
 anytime using  
 AI toggle.
 
-[Talk with us](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)
+[Talk with us](https://wa.me/85293027422?text=Hi%20Vascue%2C%20I%20would%20like%20to%20book%20a%20demo)
 
 Further reading
 
@@ -231,4 +231,4 @@ Further reading
 
 We'll map all three products to your real workflow, from the first WhatsApp message to the reconciled claim, in a walkthrough built around your clinic or department.
 
-[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)
+[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue%2C%20I%20would%20like%20to%20book%20a%20demo)

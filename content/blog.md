@@ -30,11 +30,11 @@ Provider-side claims automation: preparation, checks, human review, payer channe
     
     [Learn more](/blog/insurance-submission-software-hospitals-medical-centres)
     
--   ![Insurance Portal Automation: Why the Human Click Still Matters](/images/blog/human-in-the-loop-insurance-portal-automation.png)
+-   ![Insurance Portal Automation: How to Automate Payer Portal Work Without Losing Control](/images/blog/human-in-the-loop-insurance-portal-automation.png)
     
     Healthcare AI
     
-    ### Insurance Portal Automation: Why the Human Click Still Matters
+    ### Insurance Portal Automation: How to Automate Payer Portal Work Without Losing Control
     
     An attended browser workflow can remove re-keying while keeping clinic staff in control of the payer portal, final review, and submission action.
     

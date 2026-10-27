@@ -1,6 +1,6 @@
 ---
 title: "Vascue for Cliniko and Nookal: AI WhatsApp Intake and Booking"
-description: "Vascue adds WhatsApp intake and booking around Cliniko and Nookal. Cliniko is also the first connected source for Vascue's broader claims platform."
+description: "How Vascue adds WhatsApp enquiries, intake and two-way booking sync around Cliniko and Nookal, without a second patient database."
 image: "https://www.vascue.io/images/blog/cliniko-nookal-ai-alternatives-2026.png"
 canonical: "https://www.vascue.io/blog/vascue-cliniko-nookal-integration"
 ---
@@ -9,7 +9,7 @@ canonical: "https://www.vascue.io/blog/vascue-cliniko-nookal-integration"
 
 # Vascue for Cliniko and Nookal: AI WhatsApp Intake and Booking
 
-Vascue TeamJune 25, 2026Updated September 9, 20265 min read
+Vascue TeamJune 25, 2026Updated October 20, 20265 min read
 
 ![Vascue for Cliniko and Nookal: AI WhatsApp Intake and Booking](/images/blog/cliniko-nookal-ai-alternatives-2026.png)
 
@@ -27,7 +27,7 @@ Vascue connects to WhatsApp and other communication channels, managing every pat
 
 ### 2\. Works With Cliniko and Nookal
 
-Vascue connects to the Cliniko and Nookal setup the practice already runs, and to other EMRs where a clinic runs something different, so the clinic does not add a separate system to manage alongside it. The front desk operates through Vascue while the practice management system stays the system of record.
+Vascue connects to the Cliniko and Nookal setup the practice already runs, and to other EMRs where a clinic runs something different, so the clinic does not add a separate system to manage alongside it. The front desk operates through Vascue while the practice management system stays the system of record. For Nookal practices weighing up that layer, we set out what to ask about two-way sync and channel rules in [the guide to an AI receptionist for Nookal clinics](/blog/ai-receptionist-nookal-clinics).
 
 ### 3\. Operations Visibility for Clinician-Managers
 
@@ -89,17 +89,17 @@ Related reading
     
     [Learn more](/blog/what-is-healthcare-operations-automation)
     
--   ![When Should an AI Front Desk Hand a Patient to Staff? Approval, Takeover and Audit Trails](/images/blog/ai-front-desk-human-handoff-approval-audit-trail.png)
+-   ![Patient Journey Automation for Allied Health Clinics, End to End](/images/blog/end-to-end-patient-journey-automation-allied-health.png)
     
-    Practice Operations
+    Healthcare AI
     
-    ### When Should an AI Front Desk Hand a Patient to Staff? Approval, Takeover and Audit Trails
+    ### Patient Journey Automation for Allied Health Clinics, End to End
     
-    When an AI front desk should hand a patient to staff, the three control modes regulators describe, what a usable takeover looks like, what an audit trail must record, and how to roll autonomy out safely.
+    Most clinic AI automates one slice of the journey. Vascue connects patient communication and booking, while a separate product, Vascue Claims, handles provider-side claims.
     
-    8 min read
+    6 min read
     
-    [Learn more](/blog/ai-front-desk-human-handoff-approval-audit-trail)
+    [Learn more](/blog/end-to-end-patient-journey-automation-allied-health)
     
 
 Part of the [AI Front Desk](/ai-front-desk) cluster[All articles →](/blog)

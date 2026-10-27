@@ -80,8 +80,51 @@ Text enquiries get a reply in 20 to 30 seconds; an image referral goes from phot
 
 Radiology Department Manager, Private Hospital, Hong Kong
 
+Further reading
+
+## More on how this deployment works
+
+-   ![From Referral Letter to Quotation: How AI Reads Radiology Referrals in About 60 Seconds](/images/blog/ai-referral-letter-processing-radiology-quotation.png)
+    
+    Healthcare AI
+    
+    ### From Referral Letter to Quotation: How AI Reads Radiology Referrals in About 60 Seconds
+    
+    How AI reads a photographed referral letter and returns an itemised radiology quotation in about 60 seconds: why referrals are hard, the six-step pipeline, what accuracy should mean, and where patient data goes.
+    
+    8 min read
+    
+    [Learn more](/blog/ai-referral-letter-processing-radiology-quotation)
+    
+-   ![Patient Communication AI in a Hong Kong Hospital: A Privacy-First Architecture on AWS](/images/blog/ai-clinic-patient-data-in-house.png)
+    
+    Healthcare AI
+    
+    ### Patient Communication AI in a Hong Kong Hospital: A Privacy-First Architecture on AWS
+    
+    Inside the privacy-first AWS architecture Vascue built for a Hong Kong hospital radiology department, where patient data is de-identified on Vascue's own infrastructure before it ever reaches a hosted model.
+    
+    5 min read
+    
+    [Learn more](/blog/patient-communication-ai-hong-kong-hospital-privacy-first-architecture-aws)
+    
+-   ![When Should an AI Front Desk Hand a Patient to Staff? Approval, Takeover and Audit Trails](/images/blog/ai-front-desk-human-handoff-approval-audit-trail.png)
+    
+    Practice Operations
+    
+    ### When Should an AI Front Desk Hand a Patient to Staff? Approval, Takeover and Audit Trails
+    
+    When an AI front desk should hand a patient to staff, the three control modes regulators describe, what a usable takeover looks like, what an audit trail must record, and how to roll autonomy out safely.
+    
+    8 min read
+    
+    [Learn more](/blog/ai-front-desk-human-handoff-approval-audit-trail)
+    
+
+[All articles →](/blog)
+
 ## The same pattern fits your clinical context
 
 Sensitive processing stays inside Vascue's environment, identifiers are redacted at the boundary, and your staff stay in the loop. Let's map it to your department.
 
-[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)
+[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue%2C%20I%20would%20like%20to%20book%20a%20demo)
