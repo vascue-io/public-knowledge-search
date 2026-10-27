@@ -1,6 +1,6 @@
 ---
 title: "Case Study: Hong Kong Hospital Radiology Messaging | Vascue"
-description: "How a Hong Kong private hospital radiology department handles 110,000+ patient messages on a self-hosted, privacy-first AWS architecture."
+description: "How a Hong Kong private hospital radiology department handles 150,000+ patient messages on a self-hosted, privacy-first AWS architecture."
 canonical: "https://www.vascue.io/customers/radiology-hong-kong"
 ---
 
@@ -10,11 +10,11 @@ Case study
 
 A private hospital radiology department handles thousands of patient messages a month, in two languages, around the clock, with identifying details masked before any content is passed onward.
 
-110,000+
+150,000+
 
 messages handled
 
-99.2%
+99.5%
 
 replies rated correct by staff
 
@@ -22,11 +22,11 @@ replies rated correct by staff
 
 from referral photo to quote
 
-6,500+
+8,000+
 
 patients served
 
-Live in a private hospital radiology department in Hong Kong.
+Live in a private hospital radiology department in Hong Kong. Figures as of August 2026.
 
 The challenge
 

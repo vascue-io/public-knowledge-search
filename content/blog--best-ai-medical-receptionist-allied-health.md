@@ -9,7 +9,7 @@ canonical: "https://www.vascue.io/blog/best-ai-medical-receptionist-allied-healt
 
 # Best AI Medical Receptionist for Allied Health Clinics in 2026
 
-Vascue TeamJune 25, 2026Updated August 25, 20265 min read
+Vascue TeamJune 25, 2026Updated September 9, 20265 min read
 
 ![Best AI Medical Receptionist for Allied Health Clinics in 2026](/images/blog/best-ai-medical-receptionist-allied-health.png)
 
@@ -39,7 +39,7 @@ Vascue fits into the Cliniko or Nookal environment the practice already runs (ot
 
 ### What Makes Vascue Stand Out
 
-Beyond the front desk, an operations layer (in development) is aimed at practitioners who moved into management without a business background: plain-language answers on pricing, waiting times, and where patients fall out of the pipeline, with guidance on what to do about it rather than raw exports.
+Beyond the front desk, an operations layer serves practitioners who moved into management without a business background: plain-language answers on pricing, waiting times, and where patients fall out of the pipeline, with guidance on what to do about it rather than raw exports.
 
 **Integrations:** Cliniko, Nookal, WhatsApp. See [how the Cliniko and Nookal integration works](/blog/vascue-cliniko-nookal-integration), or the dedicated [Vascue for Cliniko](/cliniko) and [Vascue for Nookal](/nookal) pages.
 
@@ -49,7 +49,7 @@ Beyond the front desk, an operations layer (in development) is aimed at practiti
 
 **Best for:** UK and Australian private clinics on Cliniko or Nookal that want an AI receptionist across phone and SMS as well as WhatsApp.
 
-[BookedSolid](https://bookedsolid.co.uk/) is an AI receptionist that handles calls, booking, rescheduling, cancellations, reminders, and patient recall across several channels. Buyers should verify its current integrations and commercial claims directly. Vascue differs by combining its front-desk product with a separate claims product in development, but clinics should compare the two products and their production status independently.
+[BookedSolid](https://bookedsolid.co.uk/) is an AI receptionist that handles calls, booking, rescheduling, cancellations, reminders, and patient recall across several channels. Buyers should verify its current integrations and commercial claims directly. Vascue differs by combining its front-desk product with a separate claims product available through a design-partner programme, but clinics should compare the two products and their production status independently.
 
 * * *
 
@@ -107,41 +107,41 @@ Related reading
 
 ## Keep reading
 
--   ![Patient Journey Automation for Allied Health Clinics, End to End](/images/blog/end-to-end-patient-journey-automation-allied-health.png)
+-   ![Patient Journey Analytics for Clinics: The Front-Desk Metrics Your PMS Cannot Show](/images/blog/patient-journey-analytics-clinic-front-desk.png)
     
-    Healthcare AI
+    Practice Operations
     
-    ### Patient Journey Automation for Allied Health Clinics, End to End
+    ### Patient Journey Analytics for Clinics: The Front-Desk Metrics Your PMS Cannot Show
     
-    Most clinic AI automates one slice of the journey. Vascue connects patient communication and booking, while a separate product, Vascue Claims, handles provider-side claims.
+    Patient journey analytics for clinics: the front-desk metrics a practice-management system cannot show, how to calculate each one honestly, and how a practice manager can use them in a fifteen-minute weekly review.
     
-    6 min read
+    8 min read
     
-    [Learn more](/blog/end-to-end-patient-journey-automation-allied-health)
+    [Learn more](/blog/patient-journey-analytics-clinic-front-desk)
     
--   ![Vascue for Cliniko and Nookal: AI WhatsApp Intake and Booking](/images/blog/cliniko-nookal-ai-alternatives-2026.png)
+-   ![What Is Healthcare Operations Automation? A Plain-Language Guide for Operations Leads](/images/blog/what-is-healthcare-operations-automation.png)
     
-    Healthcare AI
+    Healthcare Operations
     
-    ### Vascue for Cliniko and Nookal: AI WhatsApp Intake and Booking
+    ### What Is Healthcare Operations Automation? A Plain-Language Guide for Operations Leads
     
-    Vascue adds WhatsApp intake and booking around Cliniko and Nookal. Cliniko is also the first connected source for Vascue's broader claims platform.
+    Healthcare operations automation completes the admin work between a patient request and an operational outcome. How it differs from chatbots, RPA and a practice-management system, the five-step mechanism, and a four-part buyer checklist.
     
-    5 min read
+    8 min read
     
-    [Learn more](/blog/vascue-cliniko-nookal-integration)
+    [Learn more](/blog/what-is-healthcare-operations-automation)
     
--   ![Patient Communication AI in a Hong Kong Hospital: A Privacy-First Architecture on AWS](/images/blog/ai-clinic-patient-data-in-house.png)
+-   ![When Should an AI Front Desk Hand a Patient to Staff? Approval, Takeover and Audit Trails](/images/blog/ai-front-desk-human-handoff-approval-audit-trail.png)
     
-    Healthcare AI
+    Practice Operations
     
-    ### Patient Communication AI in a Hong Kong Hospital: A Privacy-First Architecture on AWS
+    ### When Should an AI Front Desk Hand a Patient to Staff? Approval, Takeover and Audit Trails
     
-    Inside the privacy-first AWS architecture Vascue built for a Hong Kong hospital radiology department, where patient data is de-identified on Vascue's own infrastructure before it ever reaches a hosted model.
+    When an AI front desk should hand a patient to staff, the three control modes regulators describe, what a usable takeover looks like, what an audit trail must record, and how to roll autonomy out safely.
     
-    5 min read
+    8 min read
     
-    [Learn more](/blog/patient-communication-ai-hong-kong-hospital-privacy-first-architecture-aws)
+    [Learn more](/blog/ai-front-desk-human-handoff-approval-audit-trail)
     
 
 Part of the [AI Front Desk](/ai-front-desk) cluster[All articles →](/blog)

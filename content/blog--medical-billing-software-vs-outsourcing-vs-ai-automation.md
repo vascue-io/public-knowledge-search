@@ -83,41 +83,41 @@ Related reading
 
 ## Keep reading
 
--   ![How to Claim Reimbursement From International Health Insurance: A Step-by-Step Guide](/images/blog/how-to-claim-international-health-insurance-reimbursement.png)
+-   ![Insurance Submission Software for Hospitals and Medical Centres: A Buyer's Guide](/images/blog/insurance-submission-software-hospitals-medical-centres.png)
     
     Revenue Cycle
     
-    ### How to Claim Reimbursement From International Health Insurance: A Step-by-Step Guide
+    ### Insurance Submission Software for Hospitals and Medical Centres: A Buyer's Guide
     
-    A practical guide to getting reimbursed by international health insurers (Cigna Global, Allianz Care, Bupa Global, AXA and similar plans): documents you need, how to submit, and why claims get delayed.
+    What insurance submission software does for a hospital or medical centre outside the US, from claim assembly and payer channels to remittance reconciliation, the three architectures you will be offered, and a ten-point selection checklist.
     
-    6 min read
+    8 min read
     
-    [Learn more](/blog/how-to-claim-international-health-insurance-reimbursement)
+    [Learn more](/blog/insurance-submission-software-hospitals-medical-centres)
     
--   ![What Is Revenue Cycle Management Outside the US? A Guide for Private Clinics](/images/blog/revenue-cycle-management-outside-us-guide.png)
-    
-    Revenue Cycle
-    
-    ### What Is Revenue Cycle Management Outside the US? A Guide for Private Clinics
-    
-    Revenue cycle management explained for clinics outside the United States: how claims really move between clinics and insurers, why US RCM software doesn't apply, and what automation looks like without clearing houses.
-    
-    6 min read
-    
-    [Learn more](/blog/revenue-cycle-management-outside-us-guide)
-    
--   ![Insurance Claim Automation for Clinics: From Claim Material to Reconciled Outcome](/images/blog/reduce-clinic-admin-workload-front-desk-ai.png)
+-   ![Insurance Claim Status and Denial Terms Explained for Clinic Billing Teams](/images/blog/insurance-claim-status-and-denial-terms-explained.png)
     
     Revenue Cycle
     
-    ### Insurance Claim Automation for Clinics: From Claim Material to Reconciled Outcome
+    ### Insurance Claim Status and Denial Terms Explained for Clinic Billing Teams
     
-    A practical definition of clinic claims automation: document intake and OCR, connected records, validation, staff review, governed submission, tracking, and reconciliation.
+    What claim statuses such as awaiting insurer concurrence, query raised, shortfall, run-out and PR 31 actually mean, and what a clinic billing team should do next for each.
     
-    7 min read
+    8 min read
     
-    [Learn more](/blog/insurance-claim-automation-clinics-hospitals)
+    [Learn more](/blog/insurance-claim-status-and-denial-terms-explained)
+    
+-   ![Billing, Payments and Insurance Claims for a Small Allied Health Clinic in Australia: The Simple Setup](/images/blog/small-allied-health-clinic-billing-payments-claims-setup-australia.png)
+    
+    Revenue Cycle
+    
+    ### Billing, Payments and Insurance Claims for a Small Allied Health Clinic in Australia: The Simple Setup
+    
+    The four billing rails a small Australian allied health clinic needs (card, private health, Medicare and DVA, NDIS and workers comp), what HICAPS, Tyro Health, Square and Stripe charge, and how to route all of it through the PMS.
+    
+    9 min read
+    
+    [Learn more](/blog/small-allied-health-clinic-billing-payments-claims-setup-australia)
     
 
 Part of the [Vascue Claims](/claims) cluster[All articles →](/blog)

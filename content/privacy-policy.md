@@ -1,5 +1,5 @@
 ---
-title: "Vascue | Operational Spine. Designed for Healthcare."
+title: "Vascue | AI-Native Healthcare Operations Automation"
 description: "Vascue Privacy Notice."
 canonical: "https://www.vascue.io/privacy-policy"
 ---
@@ -61,7 +61,7 @@ Cookies can be “Persistent” or “Session” Cookies. Persistent Cookies rem
 
 -   Strictly Necessary Cookies. Set by us and required for the Platform to function, including security, load balancing, and remembering your cookie choices. These cannot be switched off.
 -   Analytics Cookies (Google Analytics). Set by Google Analytics, a service provided by Google LLC, to help us understand how visitors use the Platform (such as pages visited, approximate location, and device type) so we can improve it. IP addresses are anonymized. These load only if you grant the “Analytics” category in our cookie banner.
--   Marketing Cookies (Meta Pixel). Set by the Meta Pixel, a service provided by Meta Platforms, Inc., to measure the effectiveness of our advertising on Meta services (such as Facebook and Instagram) and to build audiences for our advertisements. When granted, information about your visit (such as pages viewed and actions taken) is shared with Meta, which may combine it with information it holds about you as described in Meta’s own privacy policy. These load only if you grant the “Marketing” category in our cookie banner.
+-   Marketing Cookies (Meta Pixel, LinkedIn Insight Tag). Set by the Meta Pixel, a service provided by Meta Platforms, Inc., and the LinkedIn Insight Tag, a service provided by LinkedIn Corporation, to measure the effectiveness of our advertising on Meta services (such as Facebook and Instagram) and on LinkedIn, and to build audiences for our advertisements. When granted, information about your visit (such as pages viewed and actions taken) is shared with Meta and LinkedIn, which may combine it with information they hold about you as described in their own privacy policies. These load only if you grant the “Marketing” category in our cookie banner.
 
 You can change or withdraw your cookie consent at any time via the “Consent Preferences” link in the footer of the Platform. Withdrawing consent stops the relevant technologies from collecting further data about your activity on the Platform, and does not affect your ability to use the Platform.
 

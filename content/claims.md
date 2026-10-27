@@ -1,16 +1,16 @@
 ---
-title: "Insurance Claims Automation for Clinics | Vascue"
+title: "Vascue Claims for Clinics | Vascue"
 description: "Vascue Claims turns each visit into a coded, checked, ready-to-file insurance claim, then tracks it until the money is in the bank. Staff keep the final submit."
 image: "https://www.vascue.io/images/og/claims.jpg"
 canonical: "https://www.vascue.io/claims"
 ---
 
-Insurance claims
+Vascue Claims
 
-# Claims that prepare themselves.  
-Your team just checks and submits.
+# Prepare, check and track claims.  
+Keep your team in control.
 
-Vascue Claims turns each visit into a coded, checked, ready-to-file claim, then follows it past “submitted” until the money is actually in the bank. Staff keep every decision that matters. The retyping, chasing, and reconciling go away.
+Support claims preparation, checking, status tracking and payment reconciliation. Vascue Claims handles repetitive, document-heavy work while your team reviews, approves and handles exceptions.
 
 [See it live](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)[Read the FAQ](/claims/faq)
 
@@ -163,41 +163,41 @@ Further reading
 
 ## Deeper reading on claims automation
 
--   ![How to Claim Reimbursement From International Health Insurance: A Step-by-Step Guide](/images/blog/how-to-claim-international-health-insurance-reimbursement.png)
+-   ![Insurance Submission Software for Hospitals and Medical Centres: A Buyer's Guide](/images/blog/insurance-submission-software-hospitals-medical-centres.png)
     
     Revenue Cycle
     
-    ### How to Claim Reimbursement From International Health Insurance: A Step-by-Step Guide
+    ### Insurance Submission Software for Hospitals and Medical Centres: A Buyer's Guide
     
-    A practical guide to getting reimbursed by international health insurers (Cigna Global, Allianz Care, Bupa Global, AXA and similar plans): documents you need, how to submit, and why claims get delayed.
+    What insurance submission software does for a hospital or medical centre outside the US, from claim assembly and payer channels to remittance reconciliation, the three architectures you will be offered, and a ten-point selection checklist.
     
-    6 min read
+    8 min read
     
-    [Learn more](/blog/how-to-claim-international-health-insurance-reimbursement)
+    [Learn more](/blog/insurance-submission-software-hospitals-medical-centres)
     
--   ![What Is Revenue Cycle Management Outside the US? A Guide for Private Clinics](/images/blog/revenue-cycle-management-outside-us-guide.png)
+-   ![Insurance Portal Automation: Why the Human Click Still Matters](/images/blog/human-in-the-loop-insurance-portal-automation.png)
+    
+    Healthcare AI
+    
+    ### Insurance Portal Automation: Why the Human Click Still Matters
+    
+    An attended browser workflow can remove re-keying while keeping clinic staff in control of the payer portal, final review, and submission action.
+    
+    7 min read
+    
+    [Learn more](/blog/human-in-the-loop-insurance-portal-automation)
+    
+-   ![Insurance Claim Status and Denial Terms Explained for Clinic Billing Teams](/images/blog/insurance-claim-status-and-denial-terms-explained.png)
     
     Revenue Cycle
     
-    ### What Is Revenue Cycle Management Outside the US? A Guide for Private Clinics
+    ### Insurance Claim Status and Denial Terms Explained for Clinic Billing Teams
     
-    Revenue cycle management explained for clinics outside the United States: how claims really move between clinics and insurers, why US RCM software doesn't apply, and what automation looks like without clearing houses.
+    What claim statuses such as awaiting insurer concurrence, query raised, shortfall, run-out and PR 31 actually mean, and what a clinic billing team should do next for each.
     
-    6 min read
+    8 min read
     
-    [Learn more](/blog/revenue-cycle-management-outside-us-guide)
-    
--   ![The Hidden Cost of Underpaid Insurance Claims (and How Clinics Detect and Recover Them)](/images/blog/hidden-cost-underpaid-insurance-claims.png)
-    
-    Revenue Cycle
-    
-    ### The Hidden Cost of Underpaid Insurance Claims (and How Clinics Detect and Recover Them)
-    
-    Insurers rarely pay exactly what clinics bill. How silent underpayments, unmatched remittances, and never-submitted claims drain clinic revenue, a self-audit checklist to find them, and what insurance remittance automation changes.
-    
-    6 min read
-    
-    [Learn more](/blog/hidden-cost-underpaid-insurance-claims)
+    [Learn more](/blog/insurance-claim-status-and-denial-terms-explained)
     
 
 [All articles →](/blog#claims)
@@ -210,4 +210,4 @@ Bring one real claim type and one insurer. We'll walk the whole loop on it, from
 
 Screens are from the current Vascue Claims build, seeded with synthetic demo data. Names, insurers, and amounts are illustrative; currency follows the deployment.
 
-Last updated 20 August 2026 · [Markdown version](/claims.md) for AI agents
+Last updated 2 October 2026 · [Markdown version](/claims.md) for AI agents

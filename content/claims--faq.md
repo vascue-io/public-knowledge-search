@@ -1,5 +1,5 @@
 ---
-title: "Insurance Claims Automation FAQ | Vascue"
+title: "Vascue Claims FAQ | Vascue"
 description: "Direct answers about Vascue Claims, document uploads, OCR, integrations, payers, human review, security, and availability."
 canonical: "https://www.vascue.io/claims/faq"
 ---
@@ -16,7 +16,7 @@ Search claims questions
 
 AllProduct & workflowDocuments & OCRIntegrationsPayers & regionsHuman review & controlsSecurity & dataAvailability & onboarding
 
-35 answers
+33 answers
 
 ## Product & workflow
 
@@ -140,7 +140,7 @@ That is not the current objective. Read-only retrieval and low-risk preparation 
 
 ## Security & data
 
-5
+3
 
 Does Vascue process patient information?+−
 
@@ -149,14 +149,6 @@ A production claims workflow necessarily processes the minimum patient and insur
 Can patients submit their details through the public website?+−
 
 No. The public website is for product information and enquiries, not claim records, portal credentials, policy documents, photos, screenshots, or other sensitive patient information. The planned upload workflow belongs in an authenticated clinic workspace with scoped access, private storage, retention controls, and an audit trail.
-
-Is Vascue HIPAA compliant?+−
-
-HIPAA applicability depends on the parties, data, contracts, and deployment. Vascue should not make a blanket product claim from infrastructure alone. A US deployment handling protected health information would require the relevant business-associate agreements and controls before use.
-
-Is Vascue GDPR compliant?+−
-
-GDPR compliance is not a feature switch. A deployment involving EU or UK personal data needs a lawful basis, defined controller and processor roles, data-processing terms, minimization, rights handling, retention, transfer safeguards where applicable, and tested security controls.
 
 Can an external AI provider train on claim data?+−
 
@@ -174,9 +166,9 @@ Who is the initial product for?+−
 
 Vascue Claims is intended for clinics, hospitals, and other healthcare providers with repetitive, document-heavy insurance work. The first design-partner deployment is focused on physiotherapy clinics using Cliniko and navigating national and private-insurer workflows. That first market does not limit the broader product or its upload and OCR inputs.
 
-What remains before a clinic can go live?+−
+What does onboarding cover before a clinic goes live?+−
 
-The remaining work includes production deployment, applicable registrations, clinic contracts and onboarding, production credentials, data-protection review, confirmed payer channels, controlled testing, operational training, and an incident and rollback plan.
+Onboarding covers the clinic contract, applicable registrations, production credentials, a data-protection review, confirmed payer channels, controlled testing against the clinic's own cases, operational training, and an incident and rollback plan. These are set up per clinic, which is why payer channels are confirmed during onboarding rather than assumed.
 
 How should a clinic evaluate Vascue Claims?+−
 

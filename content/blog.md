@@ -1,14 +1,16 @@
 ---
-title: "Blog | Vascue"
+title: "Blog | Vascue Resources"
 description: "Practical guides to insurance claims automation, revenue-cycle operations, patient intake, and healthcare AI."
 canonical: "https://www.vascue.io/blog"
 ---
 
-Blog
+Resources / Blog
 
-# Insights for modern clinics
+# Ideas for the work behind care.
 
-Practical guidance on insurance claims automation, revenue-cycle operations, patient intake, and responsible healthcare AI.
+Practical guidance on patient communication, healthcare operations, claims and responsible AI.
+
+[Explore all resources →](/resources)
 
 ## Insurance claims and revenue cycle
 
@@ -16,6 +18,18 @@ Provider-side claims automation: preparation, checks, human review, payer channe
 
 [Explore Vascue Claims →](/claims)
 
+-   ![Insurance Submission Software for Hospitals and Medical Centres: A Buyer's Guide](/images/blog/insurance-submission-software-hospitals-medical-centres.png)
+    
+    Revenue Cycle
+    
+    ### Insurance Submission Software for Hospitals and Medical Centres: A Buyer's Guide
+    
+    What insurance submission software does for a hospital or medical centre outside the US, from claim assembly and payer channels to remittance reconciliation, the three architectures you will be offered, and a ten-point selection checklist.
+    
+    September 24, 20268 min read
+    
+    [Learn more](/blog/insurance-submission-software-hospitals-medical-centres)
+    
 -   ![Insurance Portal Automation: Why the Human Click Still Matters](/images/blog/human-in-the-loop-insurance-portal-automation.png)
     
     Healthcare AI
@@ -27,6 +41,30 @@ Provider-side claims automation: preparation, checks, human review, payer channe
     September 3, 20267 min read
     
     [Learn more](/blog/human-in-the-loop-insurance-portal-automation)
+    
+-   ![Insurance Claim Status and Denial Terms Explained for Clinic Billing Teams](/images/blog/insurance-claim-status-and-denial-terms-explained.png)
+    
+    Revenue Cycle
+    
+    ### Insurance Claim Status and Denial Terms Explained for Clinic Billing Teams
+    
+    What claim statuses such as awaiting insurer concurrence, query raised, shortfall, run-out and PR 31 actually mean, and what a clinic billing team should do next for each.
+    
+    September 1, 20268 min read
+    
+    [Learn more](/blog/insurance-claim-status-and-denial-terms-explained)
+    
+-   ![Billing, Payments and Insurance Claims for a Small Allied Health Clinic in Australia: The Simple Setup](/images/blog/small-allied-health-clinic-billing-payments-claims-setup-australia.png)
+    
+    Revenue Cycle
+    
+    ### Billing, Payments and Insurance Claims for a Small Allied Health Clinic in Australia: The Simple Setup
+    
+    The four billing rails a small Australian allied health clinic needs (card, private health, Medicare and DVA, NDIS and workers comp), what HICAPS, Tyro Health, Square and Stripe charge, and how to route all of it through the PMS.
+    
+    August 28, 20269 min read
+    
+    [Learn more](/blog/small-allied-health-clinic-billing-payments-claims-setup-australia)
     
 -   ![How to Claim Reimbursement From International Health Insurance: A Step-by-Step Guide](/images/blog/how-to-claim-international-health-insurance-reimbursement.png)
     
@@ -119,6 +157,90 @@ Patient communication, booking, reminders, and intake across WhatsApp and the pr
 
 [Explore AI Front Desk →](/ai-front-desk)
 
+-   ![When Should an AI Front Desk Hand a Patient to Staff? Approval, Takeover and Audit Trails](/images/blog/ai-front-desk-human-handoff-approval-audit-trail.png)
+    
+    Practice Operations
+    
+    ### When Should an AI Front Desk Hand a Patient to Staff? Approval, Takeover and Audit Trails
+    
+    When an AI front desk should hand a patient to staff, the three control modes regulators describe, what a usable takeover looks like, what an audit trail must record, and how to roll autonomy out safely.
+    
+    October 8, 20268 min read
+    
+    [Learn more](/blog/ai-front-desk-human-handoff-approval-audit-trail)
+    
+-   ![Patient Journey Analytics for Clinics: The Front-Desk Metrics Your PMS Cannot Show](/images/blog/patient-journey-analytics-clinic-front-desk.png)
+    
+    Practice Operations
+    
+    ### Patient Journey Analytics for Clinics: The Front-Desk Metrics Your PMS Cannot Show
+    
+    Patient journey analytics for clinics: the front-desk metrics a practice-management system cannot show, how to calculate each one honestly, and how a practice manager can use them in a fifteen-minute weekly review.
+    
+    October 6, 20268 min read
+    
+    [Learn more](/blog/patient-journey-analytics-clinic-front-desk)
+    
+-   ![AI Receptionist for Nookal Clinics: What Connects, What Stays in Nookal, and What to Ask](/images/blog/ai-receptionist-nookal-clinics.png)
+    
+    Practice Operations
+    
+    ### AI Receptionist for Nookal Clinics: What Connects, What Stays in Nookal, and What to Ask
+    
+    Nookal's built-in AI writes clinical notes, not replies to patients. How AI receptionists connect to Nookal, what two-way sync should really mean, and an 8-point checklist before you connect anything.
+    
+    October 1, 20268 min read
+    
+    [Learn more](/blog/ai-receptionist-nookal-clinics)
+    
+-   ![From Referral Letter to Quotation: How AI Reads Radiology Referrals in About 60 Seconds](/images/blog/ai-referral-letter-processing-radiology-quotation.png)
+    
+    Healthcare AI
+    
+    ### From Referral Letter to Quotation: How AI Reads Radiology Referrals in About 60 Seconds
+    
+    How AI reads a photographed referral letter and returns an itemised radiology quotation in about 60 seconds: why referrals are hard, the six-step pipeline, what accuracy should mean, and where patient data goes.
+    
+    September 29, 20268 min read
+    
+    [Learn more](/blog/ai-referral-letter-processing-radiology-quotation)
+    
+-   ![What Is Healthcare Operations Automation? A Plain-Language Guide for Operations Leads](/images/blog/what-is-healthcare-operations-automation.png)
+    
+    Healthcare Operations
+    
+    ### What Is Healthcare Operations Automation? A Plain-Language Guide for Operations Leads
+    
+    Healthcare operations automation completes the admin work between a patient request and an operational outcome. How it differs from chatbots, RPA and a practice-management system, the five-step mechanism, and a four-part buyer checklist.
+    
+    September 22, 20268 min read
+    
+    [Learn more](/blog/what-is-healthcare-operations-automation)
+    
+-   ![Cliniko vs Front Desk: Choosing a Practice Management System for an Australian Allied Health Clinic](/images/blog/cliniko-vs-front-desk-practice-management-australia.png)
+    
+    Practice Operations
+    
+    ### Cliniko vs Front Desk: Choosing a Practice Management System for an Australian Allied Health Clinic
+    
+    Cliniko and Smartsoft's Front Desk compared for Australian allied health clinics: hosting, pricing, claiming (HICAPS, Tyro Health, Medicare, DVA), integrations, security and switching.
+    
+    September 3, 20268 min read
+    
+    [Learn more](/blog/cliniko-vs-front-desk-practice-management-australia)
+    
+-   ![Appointment Reminders, Intake Forms and Follow-Up Messages for Physio Clinics: What to Look For](/images/blog/physio-clinic-appointment-reminders-intake-forms-follow-up-automation.png)
+    
+    Practice Operations
+    
+    ### Appointment Reminders, Intake Forms and Follow-Up Messages for Physio Clinics: What to Look For
+    
+    What Cliniko and Nookal already automate for reminders, intake forms and follow-up, where the native tools stop, and a checklist for choosing workflow automation built for allied health.
+    
+    August 26, 20268 min read
+    
+    [Learn more](/blog/physio-clinic-appointment-reminders-intake-forms-follow-up-automation)
+    
 -   ![Patient Communication AI in a Hong Kong Hospital: A Privacy-First Architecture on AWS](/images/blog/ai-clinic-patient-data-in-house.png)
     
     Healthcare AI

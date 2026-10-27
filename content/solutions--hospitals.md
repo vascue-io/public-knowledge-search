@@ -1,6 +1,6 @@
 ---
-title: "AI Front Desk for Hospitals & Departments | Vascue"
-description: "Patient-communication automation for hospital teams, claims automation for document-heavy departments, and a patient-journey module in development."
+title: "Healthcare Operations Automation for Hospitals | Vascue"
+description: "Patient-communication automation for hospital teams, patient-journey analytics that surface long waits, and claims automation for document-heavy departments."
 canonical: "https://www.vascue.io/solutions/hospitals"
 ---
 
@@ -11,7 +11,7 @@ For hospitals & departments
 # Run the front desk.  
 See where the day gets stuck.
 
-Vascue handles healthcare enquiries at volume and prepares document-heavy claims for staff review. The patient-journey module is in development and is validated per workflow.
+Vascue handles healthcare enquiries at volume and prepares document-heavy claims for staff review. The patient-journey analytics layer surfaces the waits behind them, validated per workflow.
 
 [Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)
 
@@ -31,7 +31,7 @@ In consult
 
 Reporting
 
-Vascue logs each step as an event, so the longest wait stops hiding, and becomes something you can staff for and fix. In development.
+Vascue logs each step as an event, so the longest wait stops hiding, and becomes something you can staff for and fix.
 
 The problem
 
@@ -55,8 +55,6 @@ A staff-reviewed claims layer that prepares, validates, routes, tracks, and reco
 
 ### Patient-journey analytics
 
-In development
-
 Every step logged as an event, so long waits and bottlenecks surface where you can act on them.
 
 ### Works across departments
@@ -67,11 +65,11 @@ In production
 
 ## Already running at hospital scale
 
-110,000+
+150,000+
 
 messages handled
 
-99.2%
+99.5%
 
 replies rated correct by staff
 
@@ -79,11 +77,11 @@ replies rated correct by staff
 
 from referral photo to quote
 
-6,500+
+8,000+
 
 patients served
 
-Live in a private hospital radiology department in Hong Kong. [Read the case study](/customers/radiology-hong-kong)
+Live in a private hospital radiology department in Hong Kong. Figures as of August 2026. [Read the case study](/customers/radiology-hong-kong)
 
 ![Quotation mark](/images/Frame.svg)
 

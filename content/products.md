@@ -1,20 +1,20 @@
 ---
-title: "Products & Features | Vascue"
-description: "An AI front desk that answers, quotes, and books on WhatsApp 24/7, and claims automation that turns each visit into a filed, tracked, reconciled claim."
+title: "All Features | Vascue"
+description: "Three products on one operational spine: Vascue Front Desk that books on WhatsApp, Vascue Insights, and Vascue Claims that files and reconciles."
 image: "https://www.vascue.io/images/og/products.jpg"
 canonical: "https://www.vascue.io/products"
 ---
 
-Products
+All features
 
 # From the first message  
 to the settled claim.
 
-Two products on one operational spine: an AI front desk that answers, quotes, and books on WhatsApp, and claims automation that files, tracks, and reconciles what the visit earned. Privacy built into the architecture.
+Connect patient communication, operational visibility and claims across the systems your team already uses. Front Desk handles enquiries, bookings and follow-up. Insights helps you understand performance. Claims supports preparation, tracking and reconciliation. Privacy is built into the architecture.
 
 [Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)
 
-[AI Front Desk](/ai-front-desk)[Claims Automation](/claims)[Claims FAQ](/claims/faq)
+[Vascue Front Desk](/ai-front-desk)[Vascue Insights](/insights)[Vascue Claims](/claims)
 
 ![](/lottie/multilingual-support.poster.webp)
 
@@ -22,7 +22,7 @@ Product 01
 
 ## Your front desk, on WhatsApp, 24/7.
 
-Answers, triages, books and quotes in every patient's language, then writes it straight into Cliniko, Nookal, or Jane.
+Handle patient enquiries, bookings and quotations in your patients' language, with updates to Cliniko, Nookal or Jane. Your team can review conversations and take over.
 
 ### 24/7 Multilingual Support
 
@@ -50,15 +50,33 @@ Handles high message volume at once, so no patient waits in the queue.
 
 Your team can step in, edit or take over any conversation instantly.
 
-[Explore the AI Front Desk](/ai-front-desk)[Cliniko integration](/cliniko)[Nookal integration](/nookal)
+[Explore Vascue Front Desk](/ai-front-desk)[Cliniko integration](/cliniko)[Nookal integration](/nookal)
 
-![](/lottie/quotation-claims.poster.webp)
+![](/lottie/dashboard-oversight.poster.webp)
 
 Product 02
 
-## From claim material to reconciled outcome.
+## See your whole operation at a glance.
 
-Turns each visit into a coded, checked, ready-to-file claim, routes it through the insurer's channel, and tracks it until the money is in the bank. Staff keep the final submit.
+Bring operational data and dashboards into one view so you can understand performance, identify bottlenecks and decide where your team needs to act.
+
+### Dashboard Oversight
+
+One live view of bookings, quotes and claims across your front desk.
+
+### See-Through Analytics
+
+See exactly where time and revenue leak, and act on it.
+
+[Explore Vascue Insights](/insights)
+
+![](/lottie/quotation-claims.poster.webp)
+
+Product 03
+
+## Prepare, check and track claims.
+
+Support preparation, checking, status tracking and payment reconciliation, while your team reviews, approves and handles exceptions.
 
 ### Quotation & Claim Forms
 
@@ -90,31 +108,7 @@ Matches incoming payments and email remittances against claims to close the loop
 
 [Learn more](/claims)
 
-[Explore Claims Automation](/claims)[Claims FAQ](/claims/faq)
-
-![](/lottie/dashboard-oversight.poster.webp)
-
-Product 03 · In development
-
-## See your whole operation at a glance.
-
-One live view of every booking, quote and claim, with the bottlenecks surfaced before they cost you.
-
-### Dashboard Oversight
-
-One live view of bookings, quotes and claims across your front desk.
-
-### Patient Journey Monitoring
-
-Soon
-
-Track every patient from first message to final payment.
-
-### See-Through Analytics
-
-Soon
-
-See exactly where time and revenue leak, and act on it.
+[Explore Vascue Claims](/claims)[Claims FAQ](/claims/faq)
 
 ![](/lottie/security-control.poster.webp)
 
@@ -192,7 +186,7 @@ AI toggle.
 
 Further reading
 
-## How the two products work in practice
+## How the products work in practice
 
 -   ![Patient Journey Automation for Allied Health Clinics, End to End](/images/blog/end-to-end-patient-journey-automation-allied-health.png)
     
@@ -235,6 +229,6 @@ Further reading
 
 ## See it on your clinic
 
-We'll map both products to your real workflow, from the first WhatsApp message to the reconciled claim, in a walkthrough built around your clinic or department.
+We'll map all three products to your real workflow, from the first WhatsApp message to the reconciled claim, in a walkthrough built around your clinic or department.
 
 [Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)

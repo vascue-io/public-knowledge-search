@@ -1,64 +1,102 @@
 ---
-title: "Vascue | Operational Spine. Designed for Healthcare."
-description: "An AI front desk for healthcare and claims automation that turns each visit into a filed, tracked, reconciled insurance claim. Staff keep the final submit."
+title: "Vascue | AI-Native Healthcare Operations Automation"
+description: "AI-native healthcare operations automation. Vascue Front Desk, Vascue Insights and Vascue Claims on one operational spine, with staff in control."
 canonical: "https://www.vascue.io/"
 ---
 
-A three-dimensional spine runs down this page: it begins as the whole backbone, dives into the spinal canal as you scroll, passes a see-through section that reveals hidden bottlenecks, and ends at the AI brain.
-
 ![Vascue](/images/Layer_2.svg)
 
-# Operational SpineDesigned for Healthcare.Synapsed with AI
+Healthcare operations, connected
 
-From the first message to the final claim, Vascue runs the front desk and the operations behind it, so your team can focus on care.
+# The Operational Spine for Healthcare
 
-[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)[Read the case study](/customers/radiology-hong-kong)
+Give healthcare teams more time for care.
 
-Prefer email? [hello@vascue.io](mailto:hello@vascue.io)
+Vascue helps you reduce manual work and connect patient communication, bookings, insights and claims across the systems your team already uses.
 
-01 · Triage
+AI in the loop. Humans in control.
 
-## Every inquiry heard, and routed to the right place.
+[Book a demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)[Explore products](/products)
 
-A WhatsApp front desk that answers, triages, books, and quotes, 24/7 and multilingual. It reads referral letters, clinical notes, and lab results, so every inquiry reaches the right team.
+![South China Morning Post](/images/scmp-logo.png)
 
--   24/7 multilingual
--   Reads referrals, notes & lab results
--   Syncs to Cliniko & calendars
--   Instant quotes
+Featured story
 
-LiveTriage
+## See how Vascue and AWS support patient communication in a Hong Kong private hospital.
+
+> “Bringing AI into healthcare at scale takes domain expertise, careful systems integration, and ongoing operational discipline. This deployment is one working example of what that looks like in a regulated environment.”
+
+[Read the story on SCMP](https://www.scmp.com/presented/tech/topics/generative-ai-and-cloud-services/article/3359561/patient-communication-ai-hong-kong-hospital-privacy-first-architecture-aws)
+
+Proven in live healthcare operations
+
+150,000+
+
+messages handled
+
+8,000+
+
+patients served
+
+99.5%
+
+of replies rated correct by staff
+
+~60 sec
+
+from referral photo to quotation
+
+Figures as of 30 August 2026.
+
+One connected portfolio
+
+## Three products.  
+One operational spine.
+
+Front Desk handles patient enquiries and follow-up. Insights helps you understand operational performance. Claims supports preparation, tracking and reconciliation.
+
+A three-dimensional spine runs down this page: it begins as the whole backbone, dives into the spinal canal as you scroll, passes a see-through section that reveals hidden bottlenecks, and ends at the AI brain.
+
+01 · Vascue Front Desk
+
+## Turn patient enquiries into bookings and follow-up.
+
+Respond to patient enquiries, read referrals, coordinate appointments and follow up, with updates to your connected systems. Your team can review conversations and take over when needed.
+
+-   24/7 multilingual communication
+-   Ticketing system
+-   Referral & document understanding
+-   Booking & follow-up
+-   PMS & calendar updates
+-   Staff review & takeover
+
+[Explore Product](/ai-front-desk)
 
 ![A WhatsApp thread with the Vascue Clinic assistant: the patient types book physio, picks Initial Consultation from a service list, and is asked which physiotherapist they would like.](/images/front-desk/whatsapp-booking.webp)
 
 Referral letter
 
-redacted
+Patient details masked\*
 
 MRI Lumbar Spine, itemized quote attached.
 
 Available: Tue 09:20, Tue 11:40, Wed 14:00
 
-PII masked before anything leaves. Representative conversation.
+\* PII masked before anything leaves. Illustrative example.
 
-02 · Vision · see through
+02 · Vascue Insights
 
-## See through your operations.
+## See what is happening. Know where to act.
 
-Every visit becomes a stream of events: arrival, in-room, completion, report status. Vascue turns those events into action, surfacing the bottlenecks you couldn't see.
+Bring operational data and dashboards into one view. Ask questions about performance, identify bottlenecks and decide where your team needs to act.
 
--   Arrival
--   In-room
--   Complete
--   Report
+-   Operational data
+-   Dashboards
+-   AI-assisted analysis
 
-Journey + Analytics · in development
-
-[How patient-journey automation works](/blog/end-to-end-patient-journey-automation-allied-health)
+[Explore Product](/insights)
 
 Journey · Event stream
-
-Journey + Analytics · in development
 
 Load by day · reception
 
@@ -88,16 +126,19 @@ Recoverable capacity, visible for the first time.
 
 Representative case
 
-03 · Resolve
+03 · Vascue Claims
 
-## From claim material to review-ready claim.
+## Prepare, check and track claims. Keep your team in control.
 
-Claims automation for healthcare providers: each visit becomes a coded, checked, ready-to-file claim, then it is routed, tracked, and reconciled, with staff keeping the final submit.
+Support claims preparation, checking, status tracking and payment reconciliation. Your team reviews, approves and handles exceptions.
 
--   Coded & checked before review
--   Tracked to the bank receipt
+-   Preparation & checking
+-   Configured routing
+-   Status tracking
+-   Payment reconciliation
+-   Controlled approval
 
-[See the claims product](/claims)[Read common questions](/claims/faq)
+[Explore Product](/claims)
 
 Referral letter
 
@@ -109,215 +150,72 @@ Claim ready
 
 Coded, checked, and totalled from clinic records. Staff approve before anything is sent.
 
-Proven in production
+Why Vascue
 
-## Already carrying the real workload.
+## Built for healthcare operations.
 
-Not projections. Live production numbers from the deployment running today.
+Product capability matters. So does the operating model behind it. These are the reasons healthcare teams can put Vascue to work.
 
-110,000+
+01
 
-messages handled
+### Healthcare-native by design
 
-99.2%
+Built around healthcare booking rules, multilingual patient journeys, referrals, clinical documents and the privacy requirements that come with healthcare data.
 
-replies rated correct by staff
-
-~60s
-
-from referral photo to quote
-
-6,500+
-
-patients served
-
-Live in a private hospital radiology department in Hong Kong. [Read the case study](/customers/radiology-hong-kong)
-
-![Quotation mark](/images/Frame.svg)
-
-> Every session starts with a patient that is already logged, scheduled and ready to go. The integration with Cliniko is so seamless that I no longer worry about overbooking or mis‑communication. It’s like having a personal secretary in my pocket.
-
-![Divider](/images/Line-77.svg)
-
-![Alex C.](/images/avatars/alex-c.avif)
-
-Alex C.
-
-Sports Therapist Trainee, Vibes X ATPE Physiotherapy & Sports Therapy Center
-
-![Five-star rating](/images/Frame-2085666576.svg)Rated 5 out of 5 stars5.0 Ratings
-
-![Quotation mark](/images/Frame.svg)
-
-> Having Vascue’s AI in place feels like adding 2 extra 24/7 staff to the call centre team, handling the quotation requests, appointment enquiries, and ticket creation that would otherwise be on us.
-
-![Divider](/images/Line-77.svg)
-
-RD
-
-Radiology Department Manager
-
-Private Hospital, Hong Kong
-
-![Five-star rating](/images/Frame-2085666576.svg)Rated 5 out of 5 stars5.0 Ratings
-
-![Quotation mark](/images/Frame.svg)
-
-> Using the AI front desk to handle administrative tasks before arriving at the clinic has been incredibly convenient. I could easily book my appointment, check the doctor’s availability, and even upload my referral letter for insurance claims before the therapy session. This streamlined process ensured a smooth visit with minimal waiting time, allowing me to focus solely on my consultation.
-
-![Divider](/images/Line-77.svg)
-
-![Tim C.](/images/avatars/tim-c.png)
-
-Tim C.
-
-Patient with Right Knee Pain
-
-![Five-star rating](/images/Frame-2085666576.svg)Rated 5 out of 5 stars5.0 Ratings
-
-![Quotation mark](/images/Frame.svg)
-
-> The AI frontdesk has become our first line of defense against missed appointments. By routing booking requests straight into Cliniko, I can focus entirely on treatment. No more phone juggling or double‑entry.
-
-![Divider](/images/Line-77.svg)
-
-![Avery Y.](/images/avatars/avery-y.png)
-
-Avery Y.
-
-Registered Sports Therapist, Athletic Training and Performance Enhancement Studio
-
-![Five-star rating](/images/Frame-2085666576.svg)Rated 5 out of 5 stars5.0 Ratings
-
-![Quotation mark](/images/Frame.svg)
-
-> Having the AI frontdesk handle inquiries and booking has cut my administrative time in half. I can now devote all my energy to rehabilitation, while patients feel reassured that their slot is confirmed instantly.
-
-![Divider](/images/Line-77.svg)
-
-![Wendy L.](/images/avatars/wendy-l.png)
-
-Wendy L.
-
-Physiotherapist, Vibes X ATPE Physiotherapy & Sports Therapy Center
-
-![Five-star rating](/images/Frame-2085666576.svg)Rated 5 out of 5 stars5.0 Ratings
-
-![Quotation mark](/images/Frame.svg)
-
-> Every session starts with a patient that is already logged, scheduled and ready to go. The integration with Cliniko is so seamless that I no longer worry about overbooking or mis‑communication. It’s like having a personal secretary in my pocket.
-
-![Divider](/images/Line-77.svg)
-
-![Alex C.](/images/avatars/alex-c.avif)
-
-Alex C.
-
-Sports Therapist Trainee, Vibes X ATPE Physiotherapy & Sports Therapy Center
-
-![Five-star rating](/images/Frame-2085666576.svg)Rated 5 out of 5 stars5.0 Ratings
-
-![Quotation mark](/images/Frame.svg)
-
-> Having Vascue’s AI in place feels like adding 2 extra 24/7 staff to the call centre team, handling the quotation requests, appointment enquiries, and ticket creation that would otherwise be on us.
-
-![Divider](/images/Line-77.svg)
-
-RD
-
-Radiology Department Manager
-
-Private Hospital, Hong Kong
-
-![Five-star rating](/images/Frame-2085666576.svg)Rated 5 out of 5 stars5.0 Ratings
-
-![Quotation mark](/images/Frame.svg)
-
-> Using the AI front desk to handle administrative tasks before arriving at the clinic has been incredibly convenient. I could easily book my appointment, check the doctor’s availability, and even upload my referral letter for insurance claims before the therapy session. This streamlined process ensured a smooth visit with minimal waiting time, allowing me to focus solely on my consultation.
-
-![Divider](/images/Line-77.svg)
-
-![Tim C.](/images/avatars/tim-c.png)
-
-Tim C.
-
-Patient with Right Knee Pain
-
-![Five-star rating](/images/Frame-2085666576.svg)Rated 5 out of 5 stars5.0 Ratings
-
-![Quotation mark](/images/Frame.svg)
-
-> The AI frontdesk has become our first line of defense against missed appointments. By routing booking requests straight into Cliniko, I can focus entirely on treatment. No more phone juggling or double‑entry.
-
-![Divider](/images/Line-77.svg)
-
-![Avery Y.](/images/avatars/avery-y.png)
-
-Avery Y.
-
-Registered Sports Therapist, Athletic Training and Performance Enhancement Studio
-
-![Five-star rating](/images/Frame-2085666576.svg)Rated 5 out of 5 stars5.0 Ratings
-
-![Quotation mark](/images/Frame.svg)
-
-> Having the AI frontdesk handle inquiries and booking has cut my administrative time in half. I can now devote all my energy to rehabilitation, while patients feel reassured that their slot is confirmed instantly.
-
-![Divider](/images/Line-77.svg)
-
-![Wendy L.](/images/avatars/wendy-l.png)
-
-Wendy L.
-
-Physiotherapist, Vibes X ATPE Physiotherapy & Sports Therapy Center
-
-![Five-star rating](/images/Frame-2085666576.svg)Rated 5 out of 5 stars5.0 Ratings
-
-Privacy by architecture
-
-## Your patient data, under your control
-
-Unlike most AI tools, Vascue keeps raw patient data self-hosted and masks identifiers before any content is passed onward. Compliant by design.
+ISO/IEC 27001 certified · GDPR compliant · PII masking · Role-based access · Audit logs · AWS Hong Kong and hospital-hosted deployment options
 
 [Explore security & privacy](/security)
 
--   Self-hosted
-    
-    Raw patient data is handled in our environment, not a third party's
-    
--   Masked
-    
-    Identifiers removed before any content is passed onward
-    
--   ISO 27001
-    
-    Independently audited, recertified on schedule
-    
+02
 
-Features
+### From conversation to action
 
-## Everything your front desk does,  
-in one system.
+Turns enquiries into bookings, quotations, follow-up and trackable work instead of stopping at an answer.
 
-From booking and triage to insurance claims and analytics, every capability is one connected system, not a pile of point tools.
+03
 
--   AI Front Desk
--   Insurance & Claims
--   Visibility & Analytics
--   Security & Privacy
+### Connects operations around existing systems
 
-[Explore all features](/products)
+Works across WhatsApp, Cliniko, Nookal, Jane and the practice management systems teams already use, with FHIR-enabled connections.
 
-The whole backbone
+04
 
-## Every signal reaches the brain.
+### AI in the loop. Humans in control.
 
-From first message to final claim, one connected system. Ready to get your front desk listening?
+Staff retain the rules, permissions, review, approval, correction and takeover.
 
-1.  01Talk to our medical AI specialists
-2.  02We customize your agents
-3.  03Go live, override anytime
+Customer evidence
 
-[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)
+## What our customers say.
 
-Prefer email? [hello@vascue.io](mailto:hello@vascue.io)
+“
+
+> Having Vascue’s AI in place feels like adding 2 extra 24/7 staff to the call centre team, handling the quotation requests, appointment enquiries, and ticket creation that would otherwise be on us.
+
+Radiology Department Manager
+
+Private Hospital, Hong Kong
+
+[Read the hospital story](/customers/radiology-hong-kong)
+
+“
+
+> Every session starts with a patient that is already logged, scheduled and ready to go. The integration with Cliniko is so seamless that I no longer worry about overbooking or mis‑communication. It’s like having a personal secretary in my pocket.
+
+Alex C.
+
+Sports Therapist Trainee, Vibes X ATPE Physiotherapy & Sports Therapy Center
+
+[Explore Vascue Front Desk](/ai-front-desk)
+
+Implementation
+
+## Start with one workflow.
+
+1.  01Work with your team to understand your workflow
+2.  02Configure Vascue around your existing systems
+3.  03Launch with staff review and takeover controls
+
+### Ready to Transform Your Healthcare Practice?
+
+[Talk to our medical AI specialist](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)

@@ -9,7 +9,7 @@ canonical: "https://www.vascue.io/blog/vascue-cliniko-nookal-integration"
 
 # Vascue for Cliniko and Nookal: AI WhatsApp Intake and Booking
 
-Vascue TeamJune 25, 2026Updated August 25, 20265 min read
+Vascue TeamJune 25, 2026Updated September 9, 20265 min read
 
 ![Vascue for Cliniko and Nookal: AI WhatsApp Intake and Booking](/images/blog/cliniko-nookal-ai-alternatives-2026.png)
 
@@ -31,15 +31,15 @@ Vascue connects to the Cliniko and Nookal setup the practice already runs, and t
 
 ### 3\. Operations Visibility for Clinician-Managers
 
-Clinicians promoted to practice management rarely receive formal business training. Most enter management having spent their careers developing clinical expertise, not operational or business skills. Vascue is building an operations layer (currently in development) for exactly that transition.
+Clinicians promoted to practice management rarely receive formal business training. Most enter management having spent their careers developing clinical expertise, not operational or business skills. Vascue runs an operations layer built for exactly that transition.
 
-It is designed to surface operational data that Cliniko and Nookal hold but do not proactively present: where the practice is undercharging relative to appointment complexity, which appointment slots generate the longest wait times, and where patients are dropping off between first contact and completed payment, in plain language rather than raw data exports. More than reporting, the goal is to guide practitioners through the operational decisions behind the data, building their business knowledge while handling the execution directly.
+It surfaces operational data that Cliniko and Nookal hold but do not proactively present: where the practice is undercharging relative to appointment complexity, which appointment slots generate the longest wait times, and where patients are dropping off between first contact and completed payment, in plain language rather than raw data exports. More than reporting, the goal is to guide practitioners through the operational decisions behind the data, building their business knowledge while handling the execution directly.
 
 ## What This Looks Like in Practice
 
 A physiotherapy clinic with four practitioners on Nookal runs Vascue alongside its existing setup. On Sunday evening, a new patient sends a WhatsApp message asking about availability for a shoulder assessment. Vascue picks it up on its own, asks the intake questions, and confirms a Tuesday 10am appointment within the same conversation, all before midnight. The practitioner arrives Monday morning and the Tuesday booking is already there, with the patient's intake information attached.
 
-At the end of the month, the operations view (currently in development) is built to flag when patients are dropping off between first contact and completed payment for one practitioner's Friday slots, and to walk the practice manager through what is driving the gap and what to change, so the decision is made with a clear picture rather than a hunch.
+At the end of the month, the operations view flags when patients are dropping off between first contact and completed payment for one practitioner's Friday slots, and walks the practice manager through what is driving the gap and what to change, so the decision is made with a clear picture rather than a hunch.
 
 ## Setup and Integration
 
@@ -65,41 +65,41 @@ Related reading
 
 ## Keep reading
 
--   ![Patient Journey Automation for Allied Health Clinics, End to End](/images/blog/end-to-end-patient-journey-automation-allied-health.png)
+-   ![Patient Journey Analytics for Clinics: The Front-Desk Metrics Your PMS Cannot Show](/images/blog/patient-journey-analytics-clinic-front-desk.png)
     
-    Healthcare AI
+    Practice Operations
     
-    ### Patient Journey Automation for Allied Health Clinics, End to End
+    ### Patient Journey Analytics for Clinics: The Front-Desk Metrics Your PMS Cannot Show
     
-    Most clinic AI automates one slice of the journey. Vascue connects patient communication and booking, while a separate product, Vascue Claims, handles provider-side claims.
+    Patient journey analytics for clinics: the front-desk metrics a practice-management system cannot show, how to calculate each one honestly, and how a practice manager can use them in a fifteen-minute weekly review.
     
-    6 min read
+    8 min read
     
-    [Learn more](/blog/end-to-end-patient-journey-automation-allied-health)
+    [Learn more](/blog/patient-journey-analytics-clinic-front-desk)
     
--   ![Best AI Medical Receptionist for Allied Health Clinics in 2026](/images/blog/best-ai-medical-receptionist-allied-health.png)
+-   ![What Is Healthcare Operations Automation? A Plain-Language Guide for Operations Leads](/images/blog/what-is-healthcare-operations-automation.png)
     
-    Healthcare AI
+    Healthcare Operations
     
-    ### Best AI Medical Receptionist for Allied Health Clinics in 2026
+    ### What Is Healthcare Operations Automation? A Plain-Language Guide for Operations Leads
     
-    The best AI medical receptionists for allied health in 2026, compared: Vascue, BookedSolid, MIEA Health, and Heidi Health on intake, booking, and claims.
+    Healthcare operations automation completes the admin work between a patient request and an operational outcome. How it differs from chatbots, RPA and a practice-management system, the five-step mechanism, and a four-part buyer checklist.
     
-    5 min read
+    8 min read
     
-    [Learn more](/blog/best-ai-medical-receptionist-allied-health)
+    [Learn more](/blog/what-is-healthcare-operations-automation)
     
--   ![Patient Communication AI in a Hong Kong Hospital: A Privacy-First Architecture on AWS](/images/blog/ai-clinic-patient-data-in-house.png)
+-   ![When Should an AI Front Desk Hand a Patient to Staff? Approval, Takeover and Audit Trails](/images/blog/ai-front-desk-human-handoff-approval-audit-trail.png)
     
-    Healthcare AI
+    Practice Operations
     
-    ### Patient Communication AI in a Hong Kong Hospital: A Privacy-First Architecture on AWS
+    ### When Should an AI Front Desk Hand a Patient to Staff? Approval, Takeover and Audit Trails
     
-    Inside the privacy-first AWS architecture Vascue built for a Hong Kong hospital radiology department, where patient data is de-identified on Vascue's own infrastructure before it ever reaches a hosted model.
+    When an AI front desk should hand a patient to staff, the three control modes regulators describe, what a usable takeover looks like, what an audit trail must record, and how to roll autonomy out safely.
     
-    5 min read
+    8 min read
     
-    [Learn more](/blog/patient-communication-ai-hong-kong-hospital-privacy-first-architecture-aws)
+    [Learn more](/blog/ai-front-desk-human-handoff-approval-audit-trail)
     
 
 Part of the [AI Front Desk](/ai-front-desk) cluster[All articles →](/blog)

@@ -21,11 +21,11 @@ Patients enquire and book over WhatsApp, in their own language; intake is collec
 
 ## Already handling the real workload
 
-110,000+
+150,000+
 
 messages handled
 
-99.2%
+99.5%
 
 replies rated correct by staff
 
@@ -33,11 +33,11 @@ replies rated correct by staff
 
 from referral photo to quote
 
-6,500+
+8,000+
 
 patients served
 
-Live in a private hospital radiology department in Hong Kong. [Read the case study](/customers/radiology-hong-kong)
+Live in a private hospital radiology department in Hong Kong. Figures as of August 2026. [Read the case study](/customers/radiology-hong-kong)
 
 The integration
 
@@ -72,6 +72,8 @@ Answers pricing, availability, and condition questions over WhatsApp, even when 
 Reminders, follow-ups, and no-show chasing run themselves, so your hours go to patients, not the phone.
 
 Claims automation is a separate Vascue product and connects to Cliniko first; Nookal is a front-desk integration today. Nookal clinics interested in claims can read the [claims overview](/claims).
+
+Not on Nookal? Mindbody, PracticeHub, HexaHealth, Halaxy, Clinicea, ClinicOffice, Semble, Plato Medical and JERA integrations are coming soon.
 
 Setup
 

@@ -9,7 +9,7 @@ canonical: "https://www.vascue.io/blog/patient-communication-ai-hong-kong-hospit
 
 # Patient Communication AI in a Hong Kong Hospital: A Privacy-First Architecture on AWS
 
-Vascue TeamJuly 7, 2026Updated August 21, 20265 min read
+Vascue TeamJuly 7, 2026Updated September 14, 20265 min read
 
 ![Patient Communication AI in a Hong Kong Hospital: A Privacy-First Architecture on AWS](/images/blog/ai-clinic-patient-data-in-house.png)
 
@@ -33,7 +33,7 @@ AWS Hong Kong Solution Architects worked directly with Vascue's engineering team
 
 ## What Becomes Possible
 
-In production, the system has served 6,500+ patients, processed 110,000+ messages, and supported 3,300+ successful bookings. Text-based inquiries typically get a response in 20-30 seconds; image-based referrals, which require extracting content, removing identifying details, matching the examination to department pricing, and generating a quotation, typically resolve in around 60 seconds. WhatsApp support runs 24/7 and handles roughly 46 after-hours inquiries a day, patient demand that previously went unanswered overnight. Staff rate 99.2% of AI responses as correct, under ongoing human review, and around half of patient inquiries now progress to a booked appointment.
+In production, as of August 2026, the system has served 8,000+ patients, processed 150,000+ messages, and supported 4,500+ successful bookings. Text-based inquiries typically get a response in 20-30 seconds; image-based referrals, which require extracting content, removing identifying details, matching the examination to department pricing, and generating a quotation, typically resolve in around 60 seconds. WhatsApp support runs 24/7 and handles roughly 46 after-hours inquiries a day, patient demand that previously went unanswered overnight. Staff rate 99.5% of AI responses as correct, under ongoing human review, and around half of patient inquiries now progress to a booked appointment.
 
 The volume this deployment absorbs would previously have required substantial additional headcount. Instead, the existing team gets AI support on the high-volume, repetitive work and keeps its attention on the patient interactions that need clinical judgment. That's the pattern this architecture is built to extend: sensitive processing stays inside Vascue's environment, identifiers get redacted at the boundary, and staff stay in the loop on every clinical decision, in radiology, and in whichever department picks it up next.
 
@@ -45,41 +45,41 @@ Related reading
 
 ## Keep reading
 
--   ![Patient Journey Automation for Allied Health Clinics, End to End](/images/blog/end-to-end-patient-journey-automation-allied-health.png)
+-   ![Patient Journey Analytics for Clinics: The Front-Desk Metrics Your PMS Cannot Show](/images/blog/patient-journey-analytics-clinic-front-desk.png)
     
-    Healthcare AI
+    Practice Operations
     
-    ### Patient Journey Automation for Allied Health Clinics, End to End
+    ### Patient Journey Analytics for Clinics: The Front-Desk Metrics Your PMS Cannot Show
     
-    Most clinic AI automates one slice of the journey. Vascue connects patient communication and booking, while a separate product, Vascue Claims, handles provider-side claims.
+    Patient journey analytics for clinics: the front-desk metrics a practice-management system cannot show, how to calculate each one honestly, and how a practice manager can use them in a fifteen-minute weekly review.
     
-    6 min read
+    8 min read
     
-    [Learn more](/blog/end-to-end-patient-journey-automation-allied-health)
+    [Learn more](/blog/patient-journey-analytics-clinic-front-desk)
     
--   ![Best AI Medical Receptionist for Allied Health Clinics in 2026](/images/blog/best-ai-medical-receptionist-allied-health.png)
+-   ![What Is Healthcare Operations Automation? A Plain-Language Guide for Operations Leads](/images/blog/what-is-healthcare-operations-automation.png)
     
-    Healthcare AI
+    Healthcare Operations
     
-    ### Best AI Medical Receptionist for Allied Health Clinics in 2026
+    ### What Is Healthcare Operations Automation? A Plain-Language Guide for Operations Leads
     
-    The best AI medical receptionists for allied health in 2026, compared: Vascue, BookedSolid, MIEA Health, and Heidi Health on intake, booking, and claims.
+    Healthcare operations automation completes the admin work between a patient request and an operational outcome. How it differs from chatbots, RPA and a practice-management system, the five-step mechanism, and a four-part buyer checklist.
     
-    5 min read
+    8 min read
     
-    [Learn more](/blog/best-ai-medical-receptionist-allied-health)
+    [Learn more](/blog/what-is-healthcare-operations-automation)
     
--   ![Vascue for Cliniko and Nookal: AI WhatsApp Intake and Booking](/images/blog/cliniko-nookal-ai-alternatives-2026.png)
+-   ![When Should an AI Front Desk Hand a Patient to Staff? Approval, Takeover and Audit Trails](/images/blog/ai-front-desk-human-handoff-approval-audit-trail.png)
     
-    Healthcare AI
+    Practice Operations
     
-    ### Vascue for Cliniko and Nookal: AI WhatsApp Intake and Booking
+    ### When Should an AI Front Desk Hand a Patient to Staff? Approval, Takeover and Audit Trails
     
-    Vascue adds WhatsApp intake and booking around Cliniko and Nookal. Cliniko is also the first connected source for Vascue's broader claims platform.
+    When an AI front desk should hand a patient to staff, the three control modes regulators describe, what a usable takeover looks like, what an audit trail must record, and how to roll autonomy out safely.
     
-    5 min read
+    8 min read
     
-    [Learn more](/blog/vascue-cliniko-nookal-integration)
+    [Learn more](/blog/ai-front-desk-human-handoff-approval-audit-trail)
     
 
 Part of the [AI Front Desk](/ai-front-desk) cluster[All articles →](/blog)

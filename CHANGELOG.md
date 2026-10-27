@@ -4,6 +4,19 @@ All notable changes to this repository are recorded here. The hosted endpoint
 (`https://www.vascue.io/mcp/search`) is versioned separately by the website
 deployment; this file tracks the manifest, bridge image and documentation.
 
+## 1.2.0 - 2026-10-20
+
+- `content/`: snapshot refreshed from the live site, 41 to 53 pages. It had
+  been captured on 2026-08-25 and still described two products, analytics as
+  "in development", the retired Patient Journey Monitoring feature and 3,300+
+  bookings. It now carries the AI-native healthcare operations automation
+  positioning, the Vascue Front Desk / Vascue Insights / Vascue Claims names,
+  the August 2026 case-study figures, and the twelve posts published since,
+  including the `/insights` product page.
+- Practice-management integrations: the snapshot, README and `search` tool
+  description now list Mindbody, PracticeHub, HexaHealth, Halaxy, Clinicea, ClinicOffice, Semble, Plato Medical, JERA as
+  coming soon, next to the live Cliniko, Nookal and Jane integrations.
+
 ## 1.1.0 - 2026-08-25
 
 - `server.py`: the repo is now a self-contained MCP server - local BM25

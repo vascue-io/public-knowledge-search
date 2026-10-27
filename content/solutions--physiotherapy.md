@@ -20,6 +20,8 @@ Vascue handles WhatsApp enquiries and booking, and its claims automation turns e
 -   Jane
 -   Built-in calendar
 
+Coming soon: Mindbody, PracticeHub, HexaHealth, Halaxy, Clinicea, ClinicOffice, Semble, Plato Medical, JERA.
+
 The problem
 
 ## You trained to treat patients, not to run a front desk.

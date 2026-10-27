@@ -1,12 +1,12 @@
 ---
-title: "Vascue | Operational Spine. Designed for Healthcare."
+title: "Vascue | AI-Native Healthcare Operations Automation"
 description: "Vascue Terms of Service."
 canonical: "https://www.vascue.io/terms-of-service"
 ---
 
 # Terms of Service
 
-Last updated: February 26, 2025
+Last updated: September 14, 2026
 
 ## About Vascue
 
@@ -25,8 +25,8 @@ By using any component of our Service, including the website, Customer agrees to
 -   **Service** – The Software as a Service (SaaS) solution provided by the Company, which enables businesses to deploy and manage AI-powered chatbot assistants across communication channels like WhatsApp, Facebook Messenger, Instagram, and other messaging platforms.
 -   **Platform** – Refers to the underlying system or technology stack provided by the Company to deliver the Service, including any associated tools, interfaces, APIs, and integrations.
 -   **Customer Application** – The software or application developed by the Customer that interfaces with the Company’s Platform or Service.
--   **Personal Data** – Any information relating to an identified or identifiable individual, as defined by applicable data protection laws (e.g., GDPR, PDPO).
--   **Protected Health Information (PHI)** – Health-related information that is subject to the protections of HIPAA, typically concerning the health status, treatment, or payment for healthcare services.
+-   **Personal Data** – Any information relating to an identified or identifiable individual, as defined by applicable data protection laws (e.g., PDPO).
+-   **Protected Health Information (PHI)** – Health-related information that is subject to protection under applicable health privacy laws, typically concerning the health status, treatment, or payment for healthcare services.
 -   **Third-Party Messaging Platform** – Any external communication platform (e.g., WhatsApp, Facebook Messenger, Instagram) that the Customer uses to send and receive messages through the Service.
 -   **API** – Application Programming Interface, a set of protocols that allow the Service to interact with other software systems or platforms.
 -   **License** – The rights granted by the Company to the Customer to use the Service under the terms specified in the Agreement.
@@ -44,13 +44,13 @@ By using any component of our Service, including the website, Customer agrees to
 
 Subject to compliance with this Agreement, the Company will provide the Service, enabling Customers to integrate AI-powered chatbot functionalities into their messaging channels. Customers are responsible for ensuring compliance with applicable third-party platform terms, obtaining necessary API access, and securing permissions for integrations.
 
-## 3\. Compliance with ISO 27001 and HIPAA
+## 3\. Compliance with ISO 27001
 
-The Company adheres to internationally recognized security and privacy standards, including ISO 27001, HIPAA, and PDPO. Our data handling practices comply with applicable regional laws to ensure the secure processing of Personal Data. We implement stringent data protection measures, including:
+The Company adheres to internationally recognized security standards, including ISO 27001, and to applicable data protection laws, including the PDPO. Our data handling practices comply with applicable regional laws to ensure the secure processing of Personal Data. We implement stringent data protection measures, including:
 
 -   Access controls and encryption protocols to safeguard Personal Data.
 -   Regular audits and security assessments to ensure compliance with ISO 27001 information security management standards.
--   Procedures to ensure HIPAA compliance when handling Protected Health Information (PHI), including de-identification and access restrictions.
+-   Procedures for handling Protected Health Information (PHI), including de-identification and access restrictions.
 
 Customers using the Service to process sensitive or regulated data must implement additional controls as required under applicable laws and regulations.
 

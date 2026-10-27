@@ -15,7 +15,7 @@ Vascue is one connected system: an AI front desk that answers and books patients
 
 [Physiotherapy clinics](/solutions/physiotherapy) lose treatment time to quotes, rebookings, and claim paperwork between sessions, so bookings flow into Cliniko, Nookal, or Jane and each visit becomes a filed claim. Our guide to [insurance claim automation for clinics](/blog/insurance-claim-automation-clinics-hospitals) follows one claim from claim material to reconciled outcome.
 
-[Hospitals and departments](/solutions/hospitals) need triage at volume first and claims automation for the document-heavy departments next. See how a [Hong Kong radiology department](/customers/radiology-hong-kong) handles 110,000+ patient messages on that model.
+[Hospitals and departments](/solutions/hospitals) need triage at volume first and claims automation for the document-heavy departments next. See how a [Hong Kong radiology department](/customers/radiology-hong-kong) handles 150,000+ patient messages on that model.
 
 [Allied health practices](/solutions/allied-health) run several disciplines under one roof, each with its own intake, pricing, and rebate rules, and need every service on the right path from one front desk. Our guide to [patient journey automation for allied health](/blog/end-to-end-patient-journey-automation-allied-health) shows the end-to-end picture.
 
@@ -37,7 +37,7 @@ Hospitals & departments
 
 ## See where the day gets stuck
 
-Triage at volume today, claims automation when you are ready, and a patient-journey module in development to surface the bottlenecks worth fixing.
+Triage at volume today, patient-journey analytics that surface the bottlenecks worth fixing, and claims automation when you are ready.
 
 Explore
 

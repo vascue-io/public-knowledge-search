@@ -1,6 +1,6 @@
 ---
 title: "About Vascue | Built by Healthcare Operators"
-description: "Vascue is an AI front desk for healthcare, built by founders with direct clinical and hospital experience. Our mission: give time back to care."
+description: "Vascue is AI-native healthcare operations automation, built by founders with clinical and hospital experience to give teams more time for care."
 canonical: "https://www.vascue.io/about"
 ---
 
@@ -11,7 +11,7 @@ About Vascue
 # Built by the people who  
 ran the front desk.
 
-Vascue is an AI front desk for healthcare, made by founders with direct clinical and hospital experience, and a low tolerance for admin getting in the way of care.
+Vascue builds AI-native healthcare operations automation, made by founders with direct clinical and hospital experience, and a low tolerance for admin getting in the way of care.
 
 ![3D illustration of a clinic reception: a doctor walks past the front desk and phone while a patient waits on a sofa](/images/illustration-3d/about-story.webp)
 
@@ -23,7 +23,7 @@ Our founders ran front desks and operations in clinics and hospitals, and watche
 
 Vascue is the system we wished we'd had: an AI front desk that carries the operational load from first message to insurance claim, without sending raw patient data where it shouldn't go.
 
-Today that is two products on one connected system. The [AI Front Desk](/ai-front-desk) answers and books patients on WhatsApp and writes into practice-management systems such as [Cliniko](/cliniko). [Vascue Claims](/claims) prepares, checks, routes, and reconciles provider-side insurance claims while staff keep the final submit; it is rolling out through a design-partner programme, starting with physiotherapy clinics.
+Today that is three products on one connected system. The [AI Front Desk](/ai-front-desk) answers and books patients on WhatsApp and writes into practice-management systems such as [Cliniko](/cliniko). [Visibility & Analytics](/products) logs each visit as an event stream, so long waits and drop-offs surface where a manager can act on them. [Vascue Claims](/claims) prepares, checks, routes, and reconciles provider-side insurance claims while staff keep the final submit; it is rolling out through a design-partner programme, starting with physiotherapy clinics.
 
 Vascue Limited is [ISO 27001 certified](/security), and the same privacy-first architecture already handles patient messaging for a [Hong Kong hospital radiology department](/customers/radiology-hong-kong).
 

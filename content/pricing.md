@@ -1,6 +1,6 @@
 ---
 title: "Pricing | Vascue"
-description: "Vascue pricing: AI Front Desk from $149 per clinic location per month. Claims Automation $115 per location per month plus $1 per case."
+description: "Vascue pricing: AI Front Desk from $349 per clinic location per month. Claims Automation $115 per location per month plus $1 per case."
 canonical: "https://www.vascue.io/pricing"
 ---
 
@@ -8,7 +8,7 @@ Pricing
 
 # Pay for what you run.
 
-The AI Front Desk starts at $149 per clinic location per month (Growth $349, Pro $699). Claims Automation is $115 per location per month plus $1 per case, through the design-partner programme. No bundles: pick the products you run.
+The AI Front Desk starts at $349 per clinic location per month (Pro $699, Enterprise custom). Claims Automation is $115 per location per month plus $1 per case, through the design-partner programme. No bundles: pick the products you run.
 
 [Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)[Talk to sales](mailto:hello@vascue.io?subject=Vascue%20pricing)
 
@@ -22,22 +22,6 @@ A 24/7 WhatsApp front desk that answers, triages, books, and quotes, synced stra
 
 per location / month
 
-### Starter
-
-$149
-
-For solo practitioners getting the phones off their back.
-
--   **1** practitioner
--   **1** WhatsApp number
--   **500** conversations / mo, then $0.15 each
--   **24/7** multilingual answering
--   **Booking** \+ Cliniko / Nookal sync
--   **Instant** quotes
--   **Staff-override** dashboard
-
-[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)
-
 Most popular
 
 ### Growth
@@ -46,13 +30,14 @@ $349
 
 For busy multi-practitioner clinics scaling their intake.
 
-Everything in Starter, plus
-
 -   **Up to 10** practitioners
 -   **1** WhatsApp number
 -   **2,000** conversations / mo, then $0.10 each
+-   **24/7** multilingual answering
+-   **Booking** \+ Cliniko / Nookal sync
+-   **Instant** quotes
 -   **Reads** referrals, PDFs & images
--   **Smart** scheduling
+-   **Staff-override** dashboard
 
 [Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)
 
@@ -66,15 +51,49 @@ Everything in Growth, plus
 
 -   **Unlimited** practitioners
 -   **Unlimited** conversations
+-   **Smart** scheduling
 -   **Batch** processing
 -   **Priority** routing + SLA
 -   **Dedicated** onboarding & support
 
 [Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)
 
-Each plan covers one clinic location with one WhatsApp number. Running multiple locations or numbers? We'll build a custom plan around how you operate.[Talk to sales](mailto:hello@vascue.io?subject=Vascue%20pricing)
+### Enterprise
 
-Design-partner programme · Product 02
+Custom
+
+For hospital departments and multi-site groups running many locations.
+
+Everything in Pro, plus
+
+-   **Multiple** locations & WhatsApp numbers
+-   **Custom** PMS / HIS integrations
+-   **Private,** in-region deployment
+-   **Security** review, DPA & ISO 27001 evidence
+-   **Named** success manager
+-   **Volume** pricing across sites
+
+[Talk to sales](mailto:hello@vascue.io?subject=Vascue%20Enterprise)
+
+Growth and Pro each cover one clinic location with one WhatsApp number (one location = one PMS account/calendar). Running multiple locations or numbers? Enterprise is built around how you operate.[Talk to sales](mailto:hello@vascue.io?subject=Vascue%20pricing)
+
+Live · Product 02
+
+## Vascue Insights
+
+The x-ray of your operations. Every booking, quote and claim in one live view, with each visit logged as an event stream, so long waits and drop-offs surface where you can act on them.
+
+An add-on to Vascue Front Desk · pricing on request, per clinic location
+
+-   Dashboard oversight across bookings, quotes and claims
+-   Event stream per visit: arrival, in-room, complete, report
+-   Long waits and bottlenecks surfaced, not buried in exports
+-   Where time and revenue leak, and what to do about it
+-   Multi-location views for groups and departments
+
+[Talk to us about analytics](mailto:hello@vascue.io?subject=Vascue%20Vascue%20Insights)
+
+Design-partner programme · Product 03
 
 ## Claims Automation
 
@@ -101,28 +120,6 @@ Everything included
 -   Payment reconciliation
 -   Remittance & email auto-match
 -   Multi-location management
-
-Coming soon · Early access
-
-## On the roadmap
-
-The next two modules turn the front desk into the x-ray of your operations. Join early access to help shape them, and lock in founding pricing.
-
-Coming soon
-
-### Patient Journey Monitoring
-
-See every visit as a live event stream: arrival, in-room, completion, report. Surface the bottlenecks before they cost you.
-
-[Join early access](mailto:hello@vascue.io?subject=Vascue%20early%20access%3A%20Patient%20Journey%20Monitoring)
-
-Coming soon
-
-### See-Through Analytics
-
-Turn journeys into action. The x-ray of your operations: what slows you down, where, and what to do about it.
-
-[Join early access](mailto:hello@vascue.io?subject=Vascue%20early%20access%3A%20See-Through%20Analytics)
 
 ## Running two or more modules? Save ~15%.
 

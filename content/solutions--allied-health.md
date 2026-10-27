@@ -61,41 +61,41 @@ Further reading
 
 ## Guides for allied health practices
 
--   ![Patient Communication AI in a Hong Kong Hospital: A Privacy-First Architecture on AWS](/images/blog/ai-clinic-patient-data-in-house.png)
+-   ![When Should an AI Front Desk Hand a Patient to Staff? Approval, Takeover and Audit Trails](/images/blog/ai-front-desk-human-handoff-approval-audit-trail.png)
     
-    Healthcare AI
+    Practice Operations
     
-    ### Patient Communication AI in a Hong Kong Hospital: A Privacy-First Architecture on AWS
+    ### When Should an AI Front Desk Hand a Patient to Staff? Approval, Takeover and Audit Trails
     
-    Inside the privacy-first AWS architecture Vascue built for a Hong Kong hospital radiology department, where patient data is de-identified on Vascue's own infrastructure before it ever reaches a hosted model.
+    When an AI front desk should hand a patient to staff, the three control modes regulators describe, what a usable takeover looks like, what an audit trail must record, and how to roll autonomy out safely.
     
-    5 min read
+    8 min read
     
-    [Learn more](/blog/patient-communication-ai-hong-kong-hospital-privacy-first-architecture-aws)
+    [Learn more](/blog/ai-front-desk-human-handoff-approval-audit-trail)
     
--   ![AI Front Desk for Large Allied Health Clinics: Handling Scale](/images/blog/ai-front-desk-large-allied-health-clinic.png)
+-   ![Patient Journey Analytics for Clinics: The Front-Desk Metrics Your PMS Cannot Show](/images/blog/patient-journey-analytics-clinic-front-desk.png)
     
-    Healthcare AI
+    Practice Operations
     
-    ### AI Front Desk for Large Allied Health Clinics: Handling Scale
+    ### Patient Journey Analytics for Clinics: The Front-Desk Metrics Your PMS Cannot Show
     
-    A multi-practitioner clinic must absorb inquiry volume without growing reception headcount. How Vascue's WhatsApp AI front desk handles that scale.
+    Patient journey analytics for clinics: the front-desk metrics a practice-management system cannot show, how to calculate each one honestly, and how a practice manager can use them in a fifteen-minute weekly review.
     
-    6 min read
+    8 min read
     
-    [Learn more](/blog/ai-front-desk-large-allied-health-clinic)
+    [Learn more](/blog/patient-journey-analytics-clinic-front-desk)
     
--   ![Patient Journey Automation for Allied Health Clinics, End to End](/images/blog/end-to-end-patient-journey-automation-allied-health.png)
+-   ![AI Receptionist for Nookal Clinics: What Connects, What Stays in Nookal, and What to Ask](/images/blog/ai-receptionist-nookal-clinics.png)
     
-    Healthcare AI
+    Practice Operations
     
-    ### Patient Journey Automation for Allied Health Clinics, End to End
+    ### AI Receptionist for Nookal Clinics: What Connects, What Stays in Nookal, and What to Ask
     
-    Most clinic AI automates one slice of the journey. Vascue connects patient communication and booking, while a separate product, Vascue Claims, handles provider-side claims.
+    Nookal's built-in AI writes clinical notes, not replies to patients. How AI receptionists connect to Nookal, what two-way sync should really mean, and an 8-point checklist before you connect anything.
     
-    6 min read
+    8 min read
     
-    [Learn more](/blog/end-to-end-patient-journey-automation-allied-health)
+    [Learn more](/blog/ai-receptionist-nookal-clinics)
     
 
 [All articles →](/blog#front-desk)
