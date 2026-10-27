@@ -13,7 +13,7 @@ speaks physio.
 
 Vascue handles WhatsApp enquiries and booking, and its claims automation turns each visit into a coded, checked, ready-to-file claim from connected practice records, with Cliniko as the first design-partner path.
 
-[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)
+[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue%2C%20I%20would%20like%20to%20book%20a%20demo)
 
 -   Cliniko
 -   Nookal
@@ -105,4 +105,4 @@ Further reading
 
 A 20-minute demo, mapped to how your clinic books, bills, and follows up.
 
-[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)
+[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue%2C%20I%20would%20like%20to%20book%20a%20demo)

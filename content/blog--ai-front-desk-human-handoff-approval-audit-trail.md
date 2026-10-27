@@ -228,17 +228,17 @@ Related reading
     
     [Learn more](/blog/what-is-healthcare-operations-automation)
     
--   ![AI Receptionist for Nookal Clinics: What Connects, What Stays in Nookal, and What to Ask](/images/blog/ai-receptionist-nookal-clinics.png)
+-   ![Patient Journey Automation for Allied Health Clinics, End to End](/images/blog/end-to-end-patient-journey-automation-allied-health.png)
     
-    Practice Operations
+    Healthcare AI
     
-    ### AI Receptionist for Nookal Clinics: What Connects, What Stays in Nookal, and What to Ask
+    ### Patient Journey Automation for Allied Health Clinics, End to End
     
-    Nookal's built-in AI writes clinical notes, not replies to patients. How AI receptionists connect to Nookal, what two-way sync should really mean, and an 8-point checklist before you connect anything.
+    Most clinic AI automates one slice of the journey. Vascue connects patient communication and booking, while a separate product, Vascue Claims, handles provider-side claims.
     
-    8 min read
+    6 min read
     
-    [Learn more](/blog/ai-receptionist-nookal-clinics)
+    [Learn more](/blog/end-to-end-patient-journey-automation-allied-health)
     
 
 Part of the [AI Front Desk](/ai-front-desk) cluster[All articles →](/blog)

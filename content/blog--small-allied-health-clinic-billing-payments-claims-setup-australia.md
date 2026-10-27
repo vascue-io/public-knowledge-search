@@ -1,6 +1,6 @@
 ---
 title: "Billing, Payments and Insurance Claims for a Small Allied Health Clinic in Australia: The Simple Setup"
-description: "The four billing rails a small Australian allied health clinic needs, what HICAPS, Tyro Health, Square and Stripe charge, and how to route it all through the PMS."
+description: "The four billing rails a small Australian allied health clinic needs, what HICAPS, Tyro Health, Square and Stripe charge, and how to route them."
 image: "https://www.vascue.io/images/blog/small-allied-health-clinic-billing-payments-claims-setup-australia.png"
 canonical: "https://www.vascue.io/blog/small-allied-health-clinic-billing-payments-claims-setup-australia"
 ---
@@ -161,41 +161,41 @@ Related reading
 
 ## Keep reading
 
--   ![Insurance Submission Software for Hospitals and Medical Centres: A Buyer's Guide](/images/blog/insurance-submission-software-hospitals-medical-centres.png)
-    
-    Revenue Cycle
-    
-    ### Insurance Submission Software for Hospitals and Medical Centres: A Buyer's Guide
-    
-    What insurance submission software does for a hospital or medical centre outside the US, from claim assembly and payer channels to remittance reconciliation, the three architectures you will be offered, and a ten-point selection checklist.
-    
-    8 min read
-    
-    [Learn more](/blog/insurance-submission-software-hospitals-medical-centres)
-    
--   ![Insurance Claim Status and Denial Terms Explained for Clinic Billing Teams](/images/blog/insurance-claim-status-and-denial-terms-explained.png)
-    
-    Revenue Cycle
-    
-    ### Insurance Claim Status and Denial Terms Explained for Clinic Billing Teams
-    
-    What claim statuses such as awaiting insurer concurrence, query raised, shortfall, run-out and PR 31 actually mean, and what a clinic billing team should do next for each.
-    
-    8 min read
-    
-    [Learn more](/blog/insurance-claim-status-and-denial-terms-explained)
-    
--   ![Insurance Portal Automation: Why the Human Click Still Matters](/images/blog/human-in-the-loop-insurance-portal-automation.png)
+-   ![Insurance Portal Automation: How to Automate Payer Portal Work Without Losing Control](/images/blog/human-in-the-loop-insurance-portal-automation.png)
     
     Healthcare AI
     
-    ### Insurance Portal Automation: Why the Human Click Still Matters
+    ### Insurance Portal Automation: How to Automate Payer Portal Work Without Losing Control
     
     An attended browser workflow can remove re-keying while keeping clinic staff in control of the payer portal, final review, and submission action.
     
     7 min read
     
     [Learn more](/blog/human-in-the-loop-insurance-portal-automation)
+    
+-   ![The Hidden Cost of Underpaid Insurance Claims (and How Clinics Detect and Recover Them)](/images/blog/hidden-cost-underpaid-insurance-claims.png)
+    
+    Revenue Cycle
+    
+    ### The Hidden Cost of Underpaid Insurance Claims (and How Clinics Detect and Recover Them)
+    
+    Insurers rarely pay exactly what clinics bill. How silent underpayments, unmatched remittances, and never-submitted claims drain clinic revenue, a self-audit checklist to find them, and what insurance remittance automation changes.
+    
+    6 min read
+    
+    [Learn more](/blog/hidden-cost-underpaid-insurance-claims)
+    
+-   ![Insurance Claim Automation for Clinics: From Claim Material to Reconciled Outcome](/images/blog/reduce-clinic-admin-workload-front-desk-ai.png)
+    
+    Revenue Cycle
+    
+    ### Insurance Claim Automation for Clinics: From Claim Material to Reconciled Outcome
+    
+    A practical definition of clinic claims automation: document intake and OCR, connected records, validation, staff review, governed submission, tracking, and reconciliation.
+    
+    7 min read
+    
+    [Learn more](/blog/insurance-claim-automation-clinics-hospitals)
     
 
 Part of the [Vascue Claims](/claims) cluster[All articles →](/blog)

@@ -9,7 +9,7 @@ canonical: "https://www.vascue.io/blog/insurance-claim-automation-clinics-hospit
 
 # Insurance Claim Automation for Clinics: From Claim Material to Reconciled Outcome
 
-Vascue TeamJune 26, 2026Updated August 25, 20267 min read
+Vascue TeamJune 26, 2026Updated October 20, 20267 min read
 
 ![Insurance Claim Automation for Clinics: From Claim Material to Reconciled Outcome](/images/blog/reduce-clinic-admin-workload-front-desk-ai.png)
 
@@ -23,7 +23,7 @@ Vascue Claims is built for that workflow. Physiotherapy clinics using Cliniko ar
 
 The source may be a photo, screenshot, scan, PDF, manual upload, or an appointment, invoice, treatment entry, and supporting document already held in a practice-management system. The workflow should preserve where each material value came from rather than flattening everything into an untraceable form.
 
-Vascue's OCR layer creates a structured, source-linked draft from uploaded claim material, with uploads as the next input path alongside connected records. Cliniko is the first native connection, but it is one input path rather than the definition of the product.
+Vascue's OCR layer creates a structured, source-linked draft from uploaded claim material, with uploads as the next input path alongside connected records. Cliniko is the first native connection, but it is one input path rather than the definition of the product. The same extraction problem shows up before the claim exists, when a photographed referral has to become a priced quotation: we walk through that in [AI referral letter processing in a radiology department](/blog/ai-referral-letter-processing-radiology-quotation).
 
 The claims product should not ask a patient to repeat information through a public chat when the clinic already holds an approved record. Sensitive claim uploads belong in an authenticated clinic workspace, not the public Vascue website.
 
@@ -70,7 +70,7 @@ When remittance or payment arrives, the clinic needs to compare it with the expe
 
 The Cliniko sync, mapping, validation, review interface, per-clinic routing workflow, and reconciliation logic are in place. An attended browser extension drives payer portals with staff supervising each submission. Photo, screenshot, scan, and PDF uploads are the next input path being added alongside connected records.
 
-Production still requires deployment, applicable registrations, clinic contracts and onboarding, production credentials, data-protection controls, confirmed private-insurer routes, and controlled testing. Vascue does not currently claim a universal insurer network or a live production claims product.
+Each clinic's onboarding still covers applicable registrations, the clinic contract, production credentials, data-protection controls, confirmed private-insurer routes, and controlled testing. Vascue does not claim a universal insurer network: payer channels are confirmed per clinic rather than assumed.
 
 For more detail, search the [claims automation FAQ](/claims/faq).
 
@@ -96,6 +96,30 @@ Related reading
 
 ## Keep reading
 
+-   ![Insurance Portal Automation: How to Automate Payer Portal Work Without Losing Control](/images/blog/human-in-the-loop-insurance-portal-automation.png)
+    
+    Healthcare AI
+    
+    ### Insurance Portal Automation: How to Automate Payer Portal Work Without Losing Control
+    
+    An attended browser workflow can remove re-keying while keeping clinic staff in control of the payer portal, final review, and submission action.
+    
+    7 min read
+    
+    [Learn more](/blog/human-in-the-loop-insurance-portal-automation)
+    
+-   ![The Hidden Cost of Underpaid Insurance Claims (and How Clinics Detect and Recover Them)](/images/blog/hidden-cost-underpaid-insurance-claims.png)
+    
+    Revenue Cycle
+    
+    ### The Hidden Cost of Underpaid Insurance Claims (and How Clinics Detect and Recover Them)
+    
+    Insurers rarely pay exactly what clinics bill. How silent underpayments, unmatched remittances, and never-submitted claims drain clinic revenue, a self-audit checklist to find them, and what insurance remittance automation changes.
+    
+    6 min read
+    
+    [Learn more](/blog/hidden-cost-underpaid-insurance-claims)
+    
 -   ![Insurance Submission Software for Hospitals and Medical Centres: A Buyer's Guide](/images/blog/insurance-submission-software-hospitals-medical-centres.png)
     
     Revenue Cycle
@@ -107,30 +131,6 @@ Related reading
     8 min read
     
     [Learn more](/blog/insurance-submission-software-hospitals-medical-centres)
-    
--   ![Insurance Claim Status and Denial Terms Explained for Clinic Billing Teams](/images/blog/insurance-claim-status-and-denial-terms-explained.png)
-    
-    Revenue Cycle
-    
-    ### Insurance Claim Status and Denial Terms Explained for Clinic Billing Teams
-    
-    What claim statuses such as awaiting insurer concurrence, query raised, shortfall, run-out and PR 31 actually mean, and what a clinic billing team should do next for each.
-    
-    8 min read
-    
-    [Learn more](/blog/insurance-claim-status-and-denial-terms-explained)
-    
--   ![Billing, Payments and Insurance Claims for a Small Allied Health Clinic in Australia: The Simple Setup](/images/blog/small-allied-health-clinic-billing-payments-claims-setup-australia.png)
-    
-    Revenue Cycle
-    
-    ### Billing, Payments and Insurance Claims for a Small Allied Health Clinic in Australia: The Simple Setup
-    
-    The four billing rails a small Australian allied health clinic needs (card, private health, Medicare and DVA, NDIS and workers comp), what HICAPS, Tyro Health, Square and Stripe charge, and how to route all of it through the PMS.
-    
-    9 min read
-    
-    [Learn more](/blog/small-allied-health-clinic-billing-payments-claims-setup-australia)
     
 
 Part of the [Vascue Claims](/claims) cluster[All articles →](/blog)

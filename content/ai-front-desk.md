@@ -1,6 +1,6 @@
 ---
 title: "Vascue Front Desk for Healthcare | Vascue"
-description: "Reduce routine patient enquiry and booking work with Vascue Front Desk: multilingual WhatsApp communication, quotations, bookings and staff control across your connected systems."
+description: "Vascue Front Desk handles patient enquiries, quotations and bookings on WhatsApp, multilingual and around the clock, with your team in control."
 image: "https://www.vascue.io/images/og/ai-front-desk.jpg"
 canonical: "https://www.vascue.io/ai-front-desk"
 ---
@@ -12,7 +12,7 @@ on WhatsApp, 24/7.
 
 Reduce routine enquiry and booking work for your team. Vascue Front Desk answers patient enquiries, provides quotations and coordinates bookings on WhatsApp, with updates to your connected systems. Your team can review conversations and take over at any time.
 
-[Talk to our medical AI specialist](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)[Read the case study](/customers/radiology-hong-kong)
+[Talk to our medical AI specialist](https://wa.me/85293027422?text=Hi%20Vascue%2C%20I%20would%20like%20to%20book%20a%20demo)[Read the case study](/customers/radiology-hong-kong)
 
 ![A WhatsApp thread with the Vascue Clinic assistant: the patient types book physio, picks Initial Consultation from a service list, and is asked which physiotherapist they would like.](/images/front-desk/whatsapp-booking.webp)
 
@@ -194,6 +194,6 @@ Support claims preparation, tracking and reconciliation, with your team reviewin
 
 Talk through your patient enquiries, booking rules and system requirements with us. We'll show you how Front Desk could support your team.
 
-[Talk to our medical AI specialist](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)
+[Talk to our medical AI specialist](https://wa.me/85293027422?text=Hi%20Vascue%2C%20I%20would%20like%20to%20book%20a%20demo)
 
 Last updated 12 October 2026 · [Markdown version](/ai-front-desk.md) for AI agents

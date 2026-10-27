@@ -23,7 +23,7 @@ Our founders ran front desks and operations in clinics and hospitals, and watche
 
 Vascue is the system we wished we'd had: an AI front desk that carries the operational load from first message to insurance claim, without sending raw patient data where it shouldn't go.
 
-Today that is three products on one connected system. The [AI Front Desk](/ai-front-desk) answers and books patients on WhatsApp and writes into practice-management systems such as [Cliniko](/cliniko). [Visibility & Analytics](/products) logs each visit as an event stream, so long waits and drop-offs surface where a manager can act on them. [Vascue Claims](/claims) prepares, checks, routes, and reconciles provider-side insurance claims while staff keep the final submit; it is rolling out through a design-partner programme, starting with physiotherapy clinics.
+Today that is three products on one connected system. The [Vascue Front Desk](/ai-front-desk) answers and books patients on WhatsApp and writes into practice-management systems such as [Cliniko](/cliniko). [Vascue Insights](/insights) logs each visit as an event stream, so long waits and drop-offs surface where a manager can act on them. [Vascue Claims](/claims) prepares, checks, routes, and reconciles provider-side insurance claims while staff keep the final submit; it is rolling out through a design-partner programme, starting with physiotherapy clinics.
 
 Vascue Limited is [ISO 27001 certified](/security), and the same privacy-first architecture already handles patient messaging for a [Hong Kong hospital radiology department](/customers/radiology-hong-kong).
 
@@ -110,4 +110,4 @@ Further reading
 
 Whether you run a clinic or a department, we'll map Vascue to your real workflow.
 
-[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)
+[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue%2C%20I%20would%20like%20to%20book%20a%20demo)

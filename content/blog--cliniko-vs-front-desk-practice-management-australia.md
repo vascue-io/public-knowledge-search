@@ -1,6 +1,6 @@
 ---
 title: "Cliniko vs Front Desk: Choosing a Practice Management System for an Australian Allied Health Clinic"
-description: "Cliniko and Smartsoft's Front Desk compared for Australian allied health clinics: hosting, pricing, claiming, integrations, security and what switching involves."
+description: "Cliniko and Smartsoft's Front Desk compared for Australian allied health clinics: hosting, pricing, claiming, integrations and switching."
 image: "https://www.vascue.io/images/blog/cliniko-vs-front-desk-practice-management-australia.png"
 canonical: "https://www.vascue.io/blog/cliniko-vs-front-desk-practice-management-australia"
 ---
@@ -207,17 +207,17 @@ Related reading
     
     [Learn more](/blog/what-is-healthcare-operations-automation)
     
--   ![When Should an AI Front Desk Hand a Patient to Staff? Approval, Takeover and Audit Trails](/images/blog/ai-front-desk-human-handoff-approval-audit-trail.png)
+-   ![Patient Journey Automation for Allied Health Clinics, End to End](/images/blog/end-to-end-patient-journey-automation-allied-health.png)
     
-    Practice Operations
+    Healthcare AI
     
-    ### When Should an AI Front Desk Hand a Patient to Staff? Approval, Takeover and Audit Trails
+    ### Patient Journey Automation for Allied Health Clinics, End to End
     
-    When an AI front desk should hand a patient to staff, the three control modes regulators describe, what a usable takeover looks like, what an audit trail must record, and how to roll autonomy out safely.
+    Most clinic AI automates one slice of the journey. Vascue connects patient communication and booking, while a separate product, Vascue Claims, handles provider-side claims.
     
-    8 min read
+    6 min read
     
-    [Learn more](/blog/ai-front-desk-human-handoff-approval-audit-trail)
+    [Learn more](/blog/end-to-end-patient-journey-automation-allied-health)
     
 
 Part of the [AI Front Desk](/ai-front-desk) cluster[All articles →](/blog)

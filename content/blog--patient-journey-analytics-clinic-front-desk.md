@@ -21,7 +21,7 @@ You cannot fix the wait you cannot see. This guide sets out the metrics that clo
 
 Because the PMS starts counting at the booking. Cliniko, Nookal and every other diary-based system are built on the appointment record, so their reports answer questions about patients who already have a slot: utilisation, cancellations, did-not-attends, revenue per practitioner.
 
-The patient who messaged at 9:15 pm asking "do you treat shoulders, and how much is an initial?" and never heard back is not in that record. Neither is the patient who received a quote, went quiet, and booked elsewhere. That demand is real. Zocdoc has reported that [roughly half of appointments on its platform are booked after hours, between 5 pm and 9 am](https://thescript.zocdoc.com/blog/article/why-not-offering-after-hours-booking-is-driving-away-patients/), when offices are typically closed. And in a survey of 1,005 patients, Notable found that [61% had skipped going to the doctor in the past year because scheduling was too much of a hassle](https://www.notablehealth.com/blog/notable-survey-61-of-patients-skip-medical-appointments-due-to-scheduling-hassles), with 70% saying they had started booking online only to be redirected to a phone number.
+The patient who messaged at 9:15 pm asking "do you treat shoulders, and how much is an initial?" and never heard back is not in that record. Neither is the patient who received a quote, went quiet, and booked elsewhere. That demand is real. Zocdoc has reported that [roughly half of appointments on its platform are booked after hours, between 5 pm and 9 am](https://www.zocdoc.com/resources/blog/article/why-not-offering-after-hours-booking-is-driving-away-patients/), when offices are typically closed. And in a survey of 1,005 patients, Notable found that [61% had skipped going to the doctor in the past year because scheduling was too much of a hassle](https://www.notablehealth.com/blog/notable-survey-61-of-patients-skip-medical-appointments-due-to-scheduling-hassles), with 70% saying they had started booking online only to be redirected to a phone number.
 
 Neither patient shows up as a cancellation. They show up as nothing, which is why the front desk feels busier than the diary looks.
 
@@ -197,29 +197,29 @@ Related reading
     
     [Learn more](/blog/what-is-healthcare-operations-automation)
     
--   ![When Should an AI Front Desk Hand a Patient to Staff? Approval, Takeover and Audit Trails](/images/blog/ai-front-desk-human-handoff-approval-audit-trail.png)
+-   ![Patient Journey Automation for Allied Health Clinics, End to End](/images/blog/end-to-end-patient-journey-automation-allied-health.png)
     
-    Practice Operations
+    Healthcare AI
     
-    ### When Should an AI Front Desk Hand a Patient to Staff? Approval, Takeover and Audit Trails
+    ### Patient Journey Automation for Allied Health Clinics, End to End
     
-    When an AI front desk should hand a patient to staff, the three control modes regulators describe, what a usable takeover looks like, what an audit trail must record, and how to roll autonomy out safely.
+    Most clinic AI automates one slice of the journey. Vascue connects patient communication and booking, while a separate product, Vascue Claims, handles provider-side claims.
     
-    8 min read
+    6 min read
     
-    [Learn more](/blog/ai-front-desk-human-handoff-approval-audit-trail)
+    [Learn more](/blog/end-to-end-patient-journey-automation-allied-health)
     
--   ![AI Receptionist for Nookal Clinics: What Connects, What Stays in Nookal, and What to Ask](/images/blog/ai-receptionist-nookal-clinics.png)
+-   ![Vascue for Cliniko and Nookal: AI WhatsApp Intake and Booking](/images/blog/cliniko-nookal-ai-alternatives-2026.png)
     
-    Practice Operations
+    Healthcare AI
     
-    ### AI Receptionist for Nookal Clinics: What Connects, What Stays in Nookal, and What to Ask
+    ### Vascue for Cliniko and Nookal: AI WhatsApp Intake and Booking
     
-    Nookal's built-in AI writes clinical notes, not replies to patients. How AI receptionists connect to Nookal, what two-way sync should really mean, and an 8-point checklist before you connect anything.
+    Vascue adds WhatsApp intake and booking around Cliniko and Nookal. Cliniko is also the first connected source for Vascue's broader claims platform.
     
-    8 min read
+    5 min read
     
-    [Learn more](/blog/ai-receptionist-nookal-clinics)
+    [Learn more](/blog/vascue-cliniko-nookal-integration)
     
 
 Part of the [AI Front Desk](/ai-front-desk) cluster[All articles →](/blog)

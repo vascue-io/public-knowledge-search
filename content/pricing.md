@@ -10,7 +10,7 @@ Pricing
 
 The AI Front Desk starts at $349 per clinic location per month (Pro $699, Enterprise custom). Claims Automation is $115 per location per month plus $1 per case, through the design-partner programme. No bundles: pick the products you run.
 
-[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)[Talk to sales](mailto:hello@vascue.io?subject=Vascue%20pricing)
+[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue%2C%20I%20would%20like%20to%20book%20a%20demo)[Talk to sales](mailto:hello@vascue.io?subject=Vascue%20pricing)
 
 Every plan is **per clinic location** , one location = one PMS account / calendar (Cliniko, Nookal, or Jane).
 
@@ -39,7 +39,7 @@ For busy multi-practitioner clinics scaling their intake.
 -   **Reads** referrals, PDFs & images
 -   **Staff-override** dashboard
 
-[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)
+[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue%2C%20I%20would%20like%20to%20book%20a%20demo)
 
 ### Pro
 
@@ -56,7 +56,7 @@ Everything in Growth, plus
 -   **Priority** routing + SLA
 -   **Dedicated** onboarding & support
 
-[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)
+[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue%2C%20I%20would%20like%20to%20book%20a%20demo)
 
 ### Enterprise
 
@@ -107,7 +107,7 @@ $115base / location / mo
 
 \+ $1per case
 
-[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)
+[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue%2C%20I%20would%20like%20to%20book%20a%20demo)
 
 Everything included
 
@@ -125,7 +125,7 @@ Everything included
 
 Bundle the products you use and the discount applies automatically. Hospitals or multi-site groups, let's build your plan around how you actually operate.
 
-[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)[Talk to sales](mailto:hello@vascue.io?subject=Vascue%20pricing)
+[Get a Demo](https://wa.me/85293027422?text=Hi%20Vascue%2C%20I%20would%20like%20to%20book%20a%20demo)[Talk to sales](mailto:hello@vascue.io?subject=Vascue%20pricing)
 
 Prices in USD. Suggested pricing. Final plans confirmed at demo.
 

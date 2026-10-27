@@ -10,7 +10,7 @@ Vascue Insights
 
 Bring operational data and dashboards into one view. With AI-assisted questions, you can understand performance, identify bottlenecks and decide where your team needs to act.
 
-[Book a demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)[View all products](/products)
+[Book a demo](https://wa.me/85293027422?text=Hi%20Vascue%2C%20I%20would%20like%20to%20book%20a%20demo)[View all products](/products)
 
 AI in the loop. Humans in control.
 
@@ -50,4 +50,4 @@ Vascue Front Desk moves patient requests into action. Vascue Insights shows the 
 
 Show us the operational questions you need to answer. We'll walk through how Vascue Insights can help your team see the work and decide the next step.
 
-[Book a demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)
+[Book a demo](https://wa.me/85293027422?text=Hi%20Vascue%2C%20I%20would%20like%20to%20book%20a%20demo)

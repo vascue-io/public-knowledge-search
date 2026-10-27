@@ -16,7 +16,7 @@ Vascue helps you reduce manual work and connect patient communication, bookings,
 
 AI in the loop. Humans in control.
 
-[Book a demo](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)[Explore products](/products)
+[Book a demo](https://wa.me/85293027422?text=Hi%20Vascue%2C%20I%20would%20like%20to%20book%20a%20demo)[Explore products](/products)
 
 ![South China Morning Post](/images/scmp-logo.png)
 
@@ -218,4 +218,4 @@ Implementation
 
 ### Ready to Transform Your Healthcare Practice?
 
-[Talk to our medical AI specialist](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)
+[Talk to our medical AI specialist](https://wa.me/85293027422?text=Hi%20Vascue%2C%20I%20would%20like%20to%20book%20a%20demo)

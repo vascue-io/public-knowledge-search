@@ -12,7 +12,7 @@ Keep your team in control.
 
 Support claims preparation, checking, status tracking and payment reconciliation. Vascue Claims handles repetitive, document-heavy work while your team reviews, approves and handles exceptions.
 
-[See it live](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)[Read the FAQ](/claims/faq)
+[See it live](https://wa.me/85293027422?text=Hi%20Vascue%2C%20I%20would%20like%20to%20book%20a%20demo)[Read the FAQ](/claims/faq)
 
 1.  01Intake & verify
 2.  02Review
@@ -175,11 +175,11 @@ Further reading
     
     [Learn more](/blog/insurance-submission-software-hospitals-medical-centres)
     
--   ![Insurance Portal Automation: Why the Human Click Still Matters](/images/blog/human-in-the-loop-insurance-portal-automation.png)
+-   ![Insurance Portal Automation: How to Automate Payer Portal Work Without Losing Control](/images/blog/human-in-the-loop-insurance-portal-automation.png)
     
     Healthcare AI
     
-    ### Insurance Portal Automation: Why the Human Click Still Matters
+    ### Insurance Portal Automation: How to Automate Payer Portal Work Without Losing Control
     
     An attended browser workflow can remove re-keying while keeping clinic staff in control of the payer portal, final review, and submission action.
     
@@ -206,7 +206,7 @@ Further reading
 
 Bring one real claim type and one insurer. We'll walk the whole loop on it, from intake to reconciled, and tell you honestly where a pilot would start.
 
-[Book a walkthrough](https://wa.me/85293027422?text=Hi%20Vascue,%20I%20would%20like%20to%20book%20a%20demo)
+[Book a walkthrough](https://wa.me/85293027422?text=Hi%20Vascue%2C%20I%20would%20like%20to%20book%20a%20demo)
 
 Screens are from the current Vascue Claims build, seeded with synthetic demo data. Names, insurers, and amounts are illustrative; currency follows the deployment.
 

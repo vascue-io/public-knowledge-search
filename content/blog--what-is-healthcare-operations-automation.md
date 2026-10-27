@@ -219,29 +219,29 @@ Related reading
     
     [Learn more](/blog/patient-journey-analytics-clinic-front-desk)
     
--   ![When Should an AI Front Desk Hand a Patient to Staff? Approval, Takeover and Audit Trails](/images/blog/ai-front-desk-human-handoff-approval-audit-trail.png)
+-   ![Patient Journey Automation for Allied Health Clinics, End to End](/images/blog/end-to-end-patient-journey-automation-allied-health.png)
     
-    Practice Operations
+    Healthcare AI
     
-    ### When Should an AI Front Desk Hand a Patient to Staff? Approval, Takeover and Audit Trails
+    ### Patient Journey Automation for Allied Health Clinics, End to End
     
-    When an AI front desk should hand a patient to staff, the three control modes regulators describe, what a usable takeover looks like, what an audit trail must record, and how to roll autonomy out safely.
+    Most clinic AI automates one slice of the journey. Vascue connects patient communication and booking, while a separate product, Vascue Claims, handles provider-side claims.
     
-    8 min read
+    6 min read
     
-    [Learn more](/blog/ai-front-desk-human-handoff-approval-audit-trail)
+    [Learn more](/blog/end-to-end-patient-journey-automation-allied-health)
     
--   ![AI Receptionist for Nookal Clinics: What Connects, What Stays in Nookal, and What to Ask](/images/blog/ai-receptionist-nookal-clinics.png)
+-   ![Vascue for Cliniko and Nookal: AI WhatsApp Intake and Booking](/images/blog/cliniko-nookal-ai-alternatives-2026.png)
     
-    Practice Operations
+    Healthcare AI
     
-    ### AI Receptionist for Nookal Clinics: What Connects, What Stays in Nookal, and What to Ask
+    ### Vascue for Cliniko and Nookal: AI WhatsApp Intake and Booking
     
-    Nookal's built-in AI writes clinical notes, not replies to patients. How AI receptionists connect to Nookal, what two-way sync should really mean, and an 8-point checklist before you connect anything.
+    Vascue adds WhatsApp intake and booking around Cliniko and Nookal. Cliniko is also the first connected source for Vascue's broader claims platform.
     
-    8 min read
+    5 min read
     
-    [Learn more](/blog/ai-receptionist-nookal-clinics)
+    [Learn more](/blog/vascue-cliniko-nookal-integration)
     
 
 Part of the [AI Front Desk](/ai-front-desk) cluster[All articles →](/blog)
