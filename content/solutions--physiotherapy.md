@@ -17,10 +17,9 @@ Vascue handles WhatsApp enquiries and booking, and its claims automation turns e
 
 -   Cliniko
 -   Nookal
--   Jane
 -   Built-in calendar
 
-Coming soon: Mindbody, PracticeHub, HexaHealth, Halaxy, Clinicea, ClinicOffice, Semble, Plato Medical, JERA.
+In progress: Jane, Mindbody, PracticeHub, HexaHealth, Halaxy, Clinicea, ClinicOffice, Semble, Plato Medical and JERA.
 
 The problem
 
@@ -38,7 +37,7 @@ What it does
 
 ### Bookings that sync both ways
 
-Patients book over WhatsApp; appointments land in Cliniko, Nookal, Jane, or your built-in Vascue calendar, no double entry.
+Patients book over WhatsApp; appointments land in Cliniko, Nookal or your built-in Vascue calendar, no double entry. Jane, Mindbody, PracticeHub, HexaHealth, Halaxy, Clinicea, ClinicOffice, Semble, Plato Medical and JERA are in progress.
 
 ### Claims automation
 

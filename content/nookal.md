@@ -73,7 +73,7 @@ Reminders, follow-ups, and no-show chasing run themselves, so your hours go to p
 
 Claims automation is a separate Vascue product and connects to Cliniko first; Nookal is a front-desk integration today. Nookal clinics interested in claims can read the [claims overview](/claims).
 
-Not on Nookal? Mindbody, PracticeHub, HexaHealth, Halaxy, Clinicea, ClinicOffice, Semble, Plato Medical and JERA integrations are coming soon.
+Not on Nookal? Jane, Mindbody, PracticeHub, HexaHealth, Halaxy, Clinicea, ClinicOffice, Semble, Plato Medical and JERA integrations are in progress.
 
 Setup
 

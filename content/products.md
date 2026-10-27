@@ -22,7 +22,7 @@ Product 01
 
 ## Your front desk, on WhatsApp, 24/7.
 
-Handle patient enquiries, bookings and quotations in your patients' language, with updates to Cliniko, Nookal or Jane. Your team can review conversations and take over.
+Handle patient enquiries, bookings and quotations in your patients' language, with updates to Cliniko and Nookal (Jane, Mindbody, PracticeHub, HexaHealth, Halaxy, Clinicea, ClinicOffice, Semble, Plato Medical and JERA in progress). Your team can review conversations and take over.
 
 ### 24/7 Multilingual Support
 
@@ -30,7 +30,7 @@ Answers patients on WhatsApp around the clock, in their own language.
 
 ### Smart Scheduling
 
-Books, reschedules and cancels straight into Cliniko, Nookal, or Jane.
+Books, reschedules and cancels straight into Cliniko and Nookal (Jane, Mindbody, PracticeHub, HexaHealth, Halaxy, Clinicea, ClinicOffice, Semble, Plato Medical and JERA in progress).
 
 [Learn more](/cliniko)
 

@@ -72,6 +72,10 @@ Respond to patient enquiries, read referrals, coordinate appointments and follow
 
 [Explore Product](/ai-front-desk)
 
+### Bring patients back after the visit
+
+Vascue already holds the WhatsApp conversation and the booking in your practice-management system. It uses both to suggest a personalised follow-up or rebooking message for each patient. Your team approves every suggestion before it is sent from your clinic's own WhatsApp number. Coming next.
+
 ![A WhatsApp thread with the Vascue Clinic assistant: the patient types book physio, picks Initial Consultation from a service list, and is asked which physiotherapist they would like.](/images/front-desk/whatsapp-booking.webp)
 
 Referral letter
@@ -176,7 +180,7 @@ Turns enquiries into bookings, quotations, follow-up and trackable work instead 
 
 ### Connects operations around existing systems
 
-Works across WhatsApp, Cliniko, Nookal, Jane and the practice management systems teams already use, with FHIR-enabled connections.
+Works across WhatsApp, Cliniko and Nookal (Jane, Mindbody, PracticeHub, HexaHealth, Halaxy, Clinicea, ClinicOffice, Semble, Plato Medical and JERA in progress) and the practice management systems teams already use, with FHIR-enabled connections.
 
 04
 

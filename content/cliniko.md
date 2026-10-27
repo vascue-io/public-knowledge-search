@@ -71,7 +71,7 @@ Answers pricing, availability, and condition questions over WhatsApp, even when 
 
 Reminders, follow-ups, and no-show chasing run themselves, so your hours go to patients, not the phone.
 
-Not on Cliniko? Mindbody, PracticeHub, HexaHealth, Halaxy, Clinicea, ClinicOffice, Semble, Plato Medical and JERA integrations are coming soon.
+Not on Cliniko? Jane, Mindbody, PracticeHub, HexaHealth, Halaxy, Clinicea, ClinicOffice, Semble, Plato Medical and JERA integrations are in progress.
 
 Setup
 
