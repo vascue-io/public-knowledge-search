@@ -7,7 +7,7 @@
 
 [![public-knowledge-search MCP server](https://glama.ai/mcp/servers/vascue-io/public-knowledge-search/badges/card.svg)](https://glama.ai/mcp/servers/vascue-io/public-knowledge-search)
 
-A [Model Context Protocol](https://modelcontextprotocol.io) server that searches [Vascue](https://www.vascue.io)'s public documentation: healthcare operations, the AI front desk for clinics, provider-side insurance claims automation, practice-management integrations (Cliniko, Nookal and Jane live; Mindbody, PracticeHub, HexaHealth, Halaxy, Clinicea, ClinicOffice, Semble, Plato Medical and JERA coming soon), security, case studies and pricing.
+A [Model Context Protocol](https://modelcontextprotocol.io) server that searches [Vascue](https://www.vascue.io)'s public documentation: healthcare operations, Vascue Front Desk for clinics, provider-side insurance claims automation, practice-management integrations (two-way sync with Cliniko and Nookal; Jane, Mindbody, PracticeHub, HexaHealth, Halaxy, Clinicea, ClinicOffice, Semble, Plato Medical and JERA in progress), security, case studies and pricing.
 
 It comes in two equivalent forms:
 
@@ -60,9 +60,9 @@ docker run -i --rm vascue-public-knowledge-search
 
 ## Tools
 
-One tool, no authentication, read-only.
+One tool, `search`, in both forms: no authentication, read-only. The inputs differ between the hosted endpoint and the local server.
 
-### `search`
+### Hosted endpoint (`https://www.vascue.io/mcp/search`)
 
 Hybrid (keyword + vector) search over Vascue's public pages. Returns matching excerpts with their canonical `https://www.vascue.io/...` URLs so answers can cite the source.
 
@@ -79,10 +79,25 @@ Query rewriting and reranking are disabled server-side; the server returns sourc
 Example call:
 
 ```json
-{ "name": "search", "arguments": { "query": "Cliniko integration for AI front desk" } }
+{ "name": "search", "arguments": { "query": "Cliniko integration for Vascue Front Desk" } }
 ```
 
 The endpoint is backed by a Cloudflare AI Search instance over the approved public Markdown export of vascue.io (the service descriptor at https://www.vascue.io/.well-known/ai-search.json states what is and is not indexed).
+
+### Local server (`server.py`)
+
+BM25 keyword search over the bundled `content/` snapshot. No network calls at runtime. Returns `{"chunks": [...]}`, each chunk with `url`, `title`, `score` (0–1, relative to the best match) and `text`.
+
+| Input | Type | Notes |
+| --- | --- | --- |
+| `query` | `string` (required) | Natural-language question or keywords; 3–15 words, one topic per call. |
+| `max_num_results` | `integer` 1–50 | Default 8. |
+
+Example call:
+
+```json
+{ "name": "search", "arguments": { "query": "Cliniko integration", "max_num_results": 5 } }
+```
 
 ## Development
 

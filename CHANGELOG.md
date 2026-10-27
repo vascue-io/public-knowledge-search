@@ -4,18 +4,21 @@ All notable changes to this repository are recorded here. The hosted endpoint
 (`https://www.vascue.io/mcp/search`) is versioned separately by the website
 deployment; this file tracks the manifest, bridge image and documentation.
 
-## 1.2.0 - 2026-10-20
+## 1.2.0 - 2026-10-27
 
-- `content/`: snapshot refreshed from the live site, 41 to 53 pages. It had
-  been captured on 2026-08-25 and still described two products, analytics as
-  "in development", the retired Patient Journey Monitoring feature and 3,300+
-  bookings. It now carries the AI-native healthcare operations automation
-  positioning, the Vascue Front Desk / Vascue Insights / Vascue Claims names,
-  the August 2026 case-study figures, and the twelve posts published since,
-  including the `/insights` product page.
-- Practice-management integrations: the snapshot, README and `search` tool
-  description now list Mindbody, PracticeHub, HexaHealth, Halaxy, Clinicea, ClinicOffice, Semble, Plato Medical, JERA as
-  coming soon, next to the live Cliniko, Nookal and Jane integrations.
+- `content/`: snapshot refreshed from the live site (53 pages, up from 41).
+  It had been captured on 2026-08-25 and still described two products,
+  analytics as "in development", the retired Patient Journey Monitoring
+  feature and 3,300+ bookings. It now carries the AI-native healthcare
+  operations automation positioning, the Vascue Front Desk / Vascue Insights /
+  Vascue Claims names, the August 2026 case-study figures, and the twelve
+  pages published since, including `/insights`, `/resources` and ten posts.
+- README documents local vs hosted tool inputs: the hosted endpoint takes
+  `query` plus `ai_search_options`; the local `server.py` takes `query` and
+  `max_num_results` (1-50, default 8).
+- README and `search` tool description: "Vascue Front Desk", and
+  practice-management integrations as two-way sync with Cliniko and Nookal,
+  with Jane, Mindbody, PracticeHub, HexaHealth, Halaxy, Clinicea, ClinicOffice, Semble, Plato Medical and JERA in progress.
 
 ## 1.1.0 - 2026-08-25
 
