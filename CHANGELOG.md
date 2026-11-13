@@ -4,6 +4,15 @@ All notable changes to this repository are recorded here. The hosted endpoint
 (`https://www.vascue.io/mcp/search`) is versioned separately by the website
 deployment; this file tracks the manifest, bridge image and documentation.
 
+## Unreleased
+
+- README and `search` tool description: practice management integrations as
+  two-way sync with Cliniko and Nookal today, and Vascue can connect to any
+  other system a clinic uses. The list of systems in progress is removed.
+- Still to do once the website update is live: refresh `content/` with
+  `scripts/fetch_content.py` and bump the version (with the website's
+  `scripts/mcp-registry/server.json`).
+
 ## 1.2.0 - 2026-10-27
 
 - `content/`: snapshot refreshed from the live site (53 pages, up from 41).
