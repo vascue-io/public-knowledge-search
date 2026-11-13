@@ -7,7 +7,7 @@
 
 [![public-knowledge-search MCP server](https://glama.ai/mcp/servers/vascue-io/public-knowledge-search/badges/card.svg)](https://glama.ai/mcp/servers/vascue-io/public-knowledge-search)
 
-A [Model Context Protocol](https://modelcontextprotocol.io) server that searches [Vascue](https://www.vascue.io)'s public documentation: healthcare operations, Vascue Front Desk for clinics, provider-side insurance claims automation, practice-management integrations (two-way sync with Cliniko and Nookal; Jane, Mindbody, PracticeHub, HexaHealth, Halaxy, Clinicea, ClinicOffice, Semble, Plato Medical and JERA in progress), security, case studies and pricing.
+A [Model Context Protocol](https://modelcontextprotocol.io) server that searches [Vascue](https://www.vascue.io)'s public documentation: healthcare operations, Vascue Front Desk for clinics, provider-side insurance claims automation, practice management integrations (two-way sync with Cliniko and Nookal today; Vascue can connect to any other system a clinic uses), security, case studies and pricing.
 
 It comes in two equivalent forms:
 
